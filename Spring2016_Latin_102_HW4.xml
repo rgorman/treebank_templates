@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+    xml:lang="lat"
+    format="elmlatch9"
+    direction="ltr"
+    version="1.5">
+    <date>2016-03-29 17:06:14 +0000</date>
+    <annotator>
+        <short/>
+        <name/>
+        <address/>
+        <uri>http://services2.perseids.org/llt/segtok</uri>
+    </annotator>
+    <annotator>
+        <short/>
+        <name/>
+        <address/>
+        <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+    </annotator>
+    <annotator>
+        <short>Bob Gorman</short>
+        <name>Robert Gorman</name>
+        <address>rgorman1@unl.edu</address>
+        <uri>http://data.perseus.org/sosol/users/Bob%20Gorman</uri>
+    </annotator>
+    <sentence id="1" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Spring2016_Latin_102_HW4.xml" subdoc="" span="">
+        <word id="1" form="Caesar" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="eōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="quī" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="in" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="prōvinciam" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="mittuntur" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="hortātur" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="ut" lemma="" postag="" relation="nil" head=""/>
+        <word id="9" form="hostēs" lemma="" postag="" relation="nil" head=""/>
+        <word id="10" form="quōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="11" form="ibi" lemma="" postag="" relation="nil" head=""/>
+        <word id="12" form="vidēbunt" lemma="" postag="" relation="nil" head=""/>
+        <word id="13" form="interficiant" lemma="" postag="" relation="nil" head=""/>
+        <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="2" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Spring2016_Latin_102_HW4.xml" subdoc="" span="">
+        <word id="1" form="Mīlitibus" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="ā" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="quibus" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="multī" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="hostēs" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="interfectī" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="erant" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="Caesar" lemma="" postag="" relation="nil" head=""/>
+        <word id="9" form="pecūniam" lemma="" postag="" relation="nil" head=""/>
+        <word id="10" form="quam" lemma="" postag="" relation="nil" head=""/>
+        <word id="11" form="a" lemma="" postag="" relation="nil" head=""/>
+        <word id="12" form="rēge" lemma="" postag="" relation="nil" head=""/>
+        <word id="13" form="malō" lemma="" postag="" relation="nil" head=""/>
+        <word id="14" form="cēperat" lemma="" postag="" relation="nil" head=""/>
+        <word id="15" form="dedit" lemma="" postag="" relation="nil" head=""/>
+        <word id="16" form="ut" lemma="" postag="" relation="nil" head=""/>
+        <word id="17" form="fēlīcēs" lemma="" postag="" relation="nil" head=""/>
+        <word id="18" form="essent" lemma="" postag="" relation="nil" head=""/>
+        <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="3" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Spring2016_Latin_102_HW4.xml" subdoc="" span="">
+        <word id="1" form="Mīlitēs" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="Caesaris" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="multōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="virōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="quī" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="in" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="prōvinciā" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="vīvēbant" lemma="" postag="" relation="nil" head=""/>
+        <word id="9" form="interfēcērunt" lemma="" postag="" relation="nil" head=""/>
+        <word id="10" form="quod" lemma="" postag="" relation="nil" head=""/>
+        <word id="11" form="Caesar" lemma="" postag="" relation="nil" head=""/>
+        <word id="12" form="eōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="13" form="hortātus" lemma="" postag="" relation="nil" head=""/>
+        <word id="14" form="erat" lemma="" postag="" relation="nil" head=""/>
+        <word id="15" form="ut" lemma="" postag="" relation="nil" head=""/>
+        <word id="16" form="in" lemma="" postag="" relation="nil" head=""/>
+        <word id="17" form="hostēs" lemma="" postag="" relation="nil" head=""/>
+        <word id="18" form="quōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="19" form="ibi" lemma="" postag="" relation="nil" head=""/>
+        <word id="20" form="vīdērunt" lemma="" postag="" relation="nil" head=""/>
+        <word id="21" form="ācrēs" lemma="" postag="" relation="nil" head=""/>
+        <word id="22" form="essent" lemma="" postag="" relation="nil" head=""/>
+        <word id="23" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="4" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Spring2016_Latin_102_HW4.xml" subdoc="" span="">
+        <word id="1" form="Iī" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="servī" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="quōrum" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="dominī" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="contrā" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="cōpiās" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="quās" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="Caesar" lemma="" postag="" relation="nil" head=""/>
+        <word id="9" form="in" lemma="" postag="" relation="nil" head=""/>
+        <word id="10" form="prōvinciam" lemma="" postag="" relation="nil" head=""/>
+        <word id="11" form="mīserant" lemma="" postag="" relation="nil" head=""/>
+        <word id="12" form="pugnābant" lemma="" postag="" relation="nil" head=""/>
+        <word id="13" form="āb" lemma="" postag="" relation="nil" head=""/>
+        <word id="14" form="eō" lemma="" postag="" relation="nil" head=""/>
+        <word id="15" form="līberātī" lemma="" postag="" relation="nil" head=""/>
+        <word id="16" form="sunt" lemma="" postag="" relation="nil" head=""/>
+        <word id="17" form="ut" lemma="" postag="" relation="nil" head=""/>
+        <word id="18" form="amīcī" lemma="" postag="" relation="nil" head=""/>
+        <word id="19" form="populō" lemma="" postag="" relation="nil" head=""/>
+        <word id="20" form="Rōmānō" lemma="" postag="" relation="nil" head=""/>
+        <word id="21" form="essent" lemma="" postag="" relation="nil" head=""/>
+        <word id="22" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="5" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Spring2016_Latin_102_HW4.xml" subdoc="" span="">
+        <word id="1" form="Agrī" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="ā" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="quibus" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="servī" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="multī" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="ā" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="Caesare" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="līberātī" lemma="" postag="" relation="nil" head=""/>
+        <word id="9" form="erant" lemma="" postag="" relation="nil" head=""/>
+        <word id="10" form="mīlitibus" lemma="" postag="" relation="nil" head=""/>
+        <word id="11" form="Rōmānīs" lemma="" postag="" relation="nil" head=""/>
+        <word id="12" form="quōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="13" form="populus" lemma="" postag="" relation="nil" head=""/>
+        <word id="14" form="in" lemma="" postag="" relation="nil" head=""/>
+        <word id="15" form="prōvinciam" lemma="" postag="" relation="nil" head=""/>
+        <word id="16" form="mīsit" lemma="" postag="" relation="nil" head=""/>
+        <word id="17" form="datī" lemma="" postag="" relation="nil" head=""/>
+        <word id="18" form="sunt" lemma="" postag="" relation="nil" head=""/>
+        <word id="19" form="ut" lemma="" postag="" relation="nil" head=""/>
+        <word id="20" form="eōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="21" form="contrā" lemma="" postag="" relation="nil" head=""/>
+        <word id="22" form="hostēs" lemma="" postag="" relation="nil" head=""/>
+        <word id="23" form="tenērent" lemma="" postag="" relation="nil" head=""/>
+        <word id="24" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="6" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Spring2016_Latin_102_HW4.xml" subdoc="" span="">
+        <word id="1" form="Caesar" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="ā" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="iīs" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="petīvit" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="quibus" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="agrōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="dabat" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="ut" lemma="" postag="" relation="nil" head=""/>
+        <word id="9" form="multōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="10" form="annōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="11" form="ibi" lemma="" postag="" relation="nil" head=""/>
+        <word id="12" form="manērent" lemma="" postag="" relation="nil" head=""/>
+        <word id="13" form="ut" lemma="" postag="" relation="nil" head=""/>
+        <word id="14" form="hostēs" lemma="" postag="" relation="nil" head=""/>
+        <word id="15" form="terrērent" lemma="" postag="" relation="nil" head=""/>
+        <word id="16" form="contrā" lemma="" postag="" relation="nil" head=""/>
+        <word id="17" form="quōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="18" form="populus" lemma="" postag="" relation="nil" head=""/>
+        <word id="19" form="Rōmānus" lemma="" postag="" relation="nil" head=""/>
+        <word id="20" form="eōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="21" form="mīserat" lemma="" postag="" relation="nil" head=""/>
+        <word id="22" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="7" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Spring2016_Latin_102_HW4.xml" subdoc="" span="">
+        <word id="1" form="Mīlitēs" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="quōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="Caesar" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="in" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="prōvinciam" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="mīserat" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="optant" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="agrōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="9" form="quī" lemma="" postag="" relation="nil" head=""/>
+        <word id="10" form="eīs" lemma="" postag="" relation="nil" head=""/>
+        <word id="11" form="datī" lemma="" postag="" relation="nil" head=""/>
+        <word id="12" form="sunt" lemma="" postag="" relation="nil" head=""/>
+        <word id="13" form="relinquere" lemma="" postag="" relation="nil" head=""/>
+        <word id="14" form="ut" lemma="" postag="" relation="nil" head=""/>
+        <word id="15" form="Rōmam" lemma="" postag="" relation="nil" head=""/>
+        <word id="16" form="redeant" lemma="" postag="" relation="nil" head=""/>
+        <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="8" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Spring2016_Latin_102_HW4.xml" subdoc="" span="">
+        <word id="1" form="Caesar" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="verba" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="mala" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="dīcit" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="in" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="eōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="virōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="quī" lemma="" postag="" relation="nil" head=""/>
+        <word id="9" form="agrōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="10" form="quōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="11" form="eīs" lemma="" postag="" relation="nil" head=""/>
+        <word id="12" form="dedit" lemma="" postag="" relation="nil" head=""/>
+        <word id="13" form="relinquere" lemma="" postag="" relation="nil" head=""/>
+        <word id="14" form="optant" lemma="" postag="" relation="nil" head=""/>
+        <word id="15" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="9" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Spring2016_Latin_102_HW4.xml" subdoc="" span="">
+        <word id="1" form="Virī" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="sine" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="fidē" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="domūs" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="novās" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="in" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="quibus" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="nōn" lemma="" postag="" relation="nil" head=""/>
+        <word id="9" form="longum" lemma="" postag="" relation="nil" head=""/>
+        <word id="10" form="tempus" lemma="" postag="" relation="nil" head=""/>
+        <word id="11" form="vīxērunt" lemma="" postag="" relation="nil" head=""/>
+        <word id="12" form="iam" lemma="" postag="" relation="nil" head=""/>
+        <word id="13" form="relīqērunt" lemma="" postag="" relation="nil" head=""/>
+        <word id="14" form="nē" lemma="" postag="" relation="nil" head=""/>
+        <word id="15" form="sint" lemma="" postag="" relation="nil" head=""/>
+        <word id="16" form="miserī" lemma="" postag="" relation="nil" head=""/>
+        <word id="17" form="agricolae" lemma="" postag="" relation="nil" head=""/>
+        <word id="18" form="quōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="19" form="incolae" lemma="" postag="" relation="nil" head=""/>
+        <word id="20" form="odērunt" lemma="" postag="" relation="nil" head=""/>
+        <word id="21" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+</treebank>
