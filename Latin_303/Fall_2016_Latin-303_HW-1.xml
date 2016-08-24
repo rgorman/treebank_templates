@@ -17,7 +17,7 @@
         <address/>
         <uri>http://github.com/latin-language-toolkit/arethusa</uri>
     </annotator>
-    <sentence id="1" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Fall_2016_Latin-303_HW-1.xml" subdoc="" span="">
+    <sentence id="1" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_303/Fall_2016_Latin-303_HW-1.xml" subdoc="" span="">
         <word id="1" form="Caesar" lemma="" postag="" relation="" head=""/>
         <word id="2" form="ex" lemma="" postag="" relation="" head=""/>
         <word id="3" form="mīlitibus" lemma="" postag="" relation="" head=""/>
@@ -28,7 +28,7 @@
         <word id="8" form="vīdissent" lemma="" postag="" relation="" head=""/>
         <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="2" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Fall_2016_Latin-303_HW-1.xml" subdoc="" span="">
+    <sentence id="2" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_303/Fall_2016_Latin-303_HW-1.xml" subdoc="" span="">
         <word id="1" form="Cūr" lemma="" postag="" relation="" head=""/>
         <word id="2" form="eā" lemma="" postag="" relation="" head=""/>
         <word id="3" form="dē" lemma="" postag="" relation="" head=""/>
@@ -42,7 +42,7 @@
         <word id="11" form="intellexērunt" lemma="" postag="" relation="" head=""/>
         <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="3" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Fall_2016_Latin-303_HW-1.xml" subdoc="" span="">
+    <sentence id="3" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_303/Fall_2016_Latin-303_HW-1.xml" subdoc="" span="">
         <word id="1" form="Magnā" lemma="" postag="" relation="" head=""/>
         <word id="2" form="cum" lemma="" postag="" relation="" head=""/>
         <word id="3" form="īrā" lemma="" postag="" relation="" head=""/>
@@ -63,7 +63,7 @@
         <word id="18" form="sit" lemma="" postag="" relation="" head=""/>
         <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="4" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Fall_2016_Latin-303_HW-1.xml" subdoc="" span="">
+    <sentence id="4" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_303/Fall_2016_Latin-303_HW-1.xml" subdoc="" span="">
         <word id="1" form="Mīlitēs" lemma="" postag="" relation="" head=""/>
         <word id="2" form="Caesaris" lemma="" postag="" relation="" head=""/>
         <word id="3" form="eum" lemma="" postag="" relation="" head=""/>
@@ -80,7 +80,7 @@
         <word id="14" form="esset" lemma="" postag="" relation="" head=""/>
         <word id="15" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="5" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Fall_2016_Latin-303_HW-1.xml" subdoc="" span="">
+    <sentence id="5" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_303/Fall_2016_Latin-303_HW-1.xml" subdoc="" span="">
         <word id="1" form="Multī" lemma="" postag="" relation="" head=""/>
         <word id="2" form="explōrātōrēs" lemma="" postag="" relation="" head=""/>
         <word id="3" form="in" lemma="" postag="" relation="" head=""/>
@@ -98,7 +98,7 @@
         <word id="15" form="posuerant" lemma="" postag="" relation="" head=""/>
         <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="6" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Fall_2016_Latin-303_HW-1.xml" subdoc="" span="">
+    <sentence id="6" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_303/Fall_2016_Latin-303_HW-1.xml" subdoc="" span="">
         <word id="1" form="Explōrātōribus" lemma="" postag="" relation="" head=""/>
         <word id="2" form="ē" lemma="" postag="" relation="" head=""/>
         <word id="3" form="fīnibus" lemma="" postag="" relation="" head=""/>
