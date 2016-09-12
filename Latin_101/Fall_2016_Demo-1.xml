@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+    xml:lang="lat"
+    format="wheelock1-3"
+    direction="ltr"
+    version="1.5">
+    <date>2016-09-12 17:06:49 +0000</date>
+    <annotator>
+        <short/>
+        <name/>
+        <address/>
+        <uri>http://services2.perseids.org/llt/segtok</uri>
+    </annotator>
+    <annotator>
+        <short/>
+        <name/>
+        <address/>
+        <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+    </annotator>
+    <annotator>
+        <short>Bob Gorman</short>
+        <name>Robert Gorman</name>
+        <address>rgorman1@unl.edu</address>
+        <uri>http://data.perseus.org/sosol/users/Bob%20Gorman</uri>
+    </annotator>
+    <sentence id="1" document_id="" subdoc="" span="">
+        <word id="1" form="Paucī" lemma="" postag="" relation="" head=""/>
+        <word id="2" form="virī" lemma="" postag="" relation="" head=""/>
+        <word id="3" form="vērum" lemma="" postag="" relation="" head=""/>
+        <word id="4" form="ōtium" lemma="" postag="" relation="" head=""/>
+        <word id="5" form="habent" lemma="" postag="" relation="" head=""/>
+        <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="2" document_id="" subdoc="" span="">
+        <word id="1" form="Ocullī" lemma="" postag="" relation="" head=""/>
+        <word id="2" form="puellae" lemma="" postag="" relation="" head=""/>
+        <word id="3" form="sunt" lemma="" postag="" relation="" head=""/>
+        <word id="4" form="bellī" lemma="" postag="" relation="" head=""/>
+        <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+</treebank>
+
