@@ -28,7 +28,7 @@
     <sentence id="1" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_303/Fall_2016_Latin-303_HW-4.xml" subdoc="" span="">
         <word id="1" form="minimē" lemma="" postag="" relation="" head=""/>
         <word id="2" form="ad" lemma="" postag="" relation="" head=""/>
-        <word id="3" form="Belgās" lemma="" postag="" relation="" head=""/>
+        <word id="3" form="Belgās" lemma="" postag="n-p---ma-" relation="" head=""/>
         <word id="4" form="mercātōrēs" lemma="" postag="" relation="" head=""/>
         <word id="5" form="saepe" lemma="" postag="" relation="" head=""/>
         <word id="6" form="commeant" lemma="" postag="" relation="" head=""/>
@@ -59,7 +59,7 @@
         <word id="1" form="nūntiātum" lemma="" postag="" relation="" head=""/>
         <word id="2" form="est" lemma="" postag="" relation="" head=""/>
         <word id="3" form="Caesarī" lemma="" postag="" relation="" head=""/>
-        <word id="4" form="Ariovistum" lemma="" postag="" relation="" head=""/>
+        <word id="4" form="Ariovistum" lemma="" postag="n-s---ma-" relation="" head=""/>
         <word id="5" form="cum" lemma="" postag="" relation="" head=""/>
         <word id="6" form="suīs" lemma="" postag="" relation="" head=""/>
         <word id="7" form="omnibus" lemma="" postag="" relation="" head=""/>
@@ -92,7 +92,7 @@
     <sentence id="5" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_303/Fall_2016_Latin-303_HW-4.xml" subdoc="" span="">
         <word id="1" form="Hīs" lemma="" postag="" relation="" head=""/>
         <word id="2" form="rēbus" lemma="" postag="" relation="" head=""/>
-        <word id="3" form="adductī" lemma="" postag="" relation="" head=""/>
+        <word id="3" form="adductī" lemma="" postag="n-p---mn-" relation="" head=""/>
         <word id="4" form="Helvētiī" lemma="" postag="" relation="" head=""/>
         <word id="5" form="cōnstituērunt" lemma="" postag="" relation="" head=""/>
         <word id="6" form="ea" lemma="" postag="" relation="" head=""/>
