@@ -66,13 +66,13 @@
         <word id="8" form="cōpiīs" lemma="" postag="" relation="" head=""/>
         <word id="9" form="ad" lemma="" postag="" relation="" head=""/>
         <word id="10" form="occupandum" lemma="" postag="" relation="" head=""/>
-        <word id="11" form="Vesontiōnem" lemma="" postag="" relation="" head=""/>
+        <word id="11" form="Vesontiōnem" lemma="" postag="n-s---ma-" relation="" head=""/>
         <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
         <word id="13" form="quod" lemma="" postag="" relation="" head=""/>
         <word id="14" form="est" lemma="" postag="" relation="" head=""/>
         <word id="15" form="oppidum" lemma="" postag="" relation="" head=""/>
         <word id="16" form="maximum" lemma="" postag="" relation="" head=""/>
-        <word id="17" form="Sēquanōrum" lemma="" postag="" relation="" head=""/>
+        <word id="17" form="Sēquanōrum" lemma="" postag="n-p---mg-" relation="" head=""/>
         <word id="18" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
         <word id="19" form="contendere" lemma="" postag="" relation="" head=""/>
         <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
