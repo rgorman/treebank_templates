@@ -121,7 +121,7 @@
         <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
     <sentence id="10" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_101/Fall_2016_Latin-101_HW3.xml" subdoc="" span="">
-        <word id="1" form="Eā" lemma="" postag="" relation="" head=""/>
+        <word id="1" form="Ea" lemma="" postag="" relation="" head=""/>
         <word id="2" form="fēmina" lemma="" postag="" relation="" head=""/>
         <word id="3" form="propter" lemma="" postag="" relation="" head=""/>
         <word id="4" form="virtūtem" lemma="" postag="" relation="" head=""/>
