@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<treebank xmlns:saxon="http://saxon.sf.net/"
+    xml:lang="lat"
+    format="wheelock15"
+    direction="ltr"
+    version="1.5">
+    <date>2016-11-02 20:45:21 +0000</date>
+    <annotator>
+        <short/>
+        <name/>
+        <address/>
+        <uri>http://services2.perseids.org/llt/segtok</uri>
+    </annotator>
+    <annotator>
+        <short/>
+        <name/>
+        <address/>
+        <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+    </annotator>
+    <annotator>
+        <short>Bob Gorman</short>
+        <name>Robert Gorman</name>
+        <address>rgorman1@unl.edu</address>
+        <uri>http://data.perseus.org/sosol/users/Bob%20Gorman</uri>
+    </annotator>
+    <sentence id="1" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_101/Fall_2016_Latin-101_HW3.xml" subdoc="" span="">
+        <word id="1" form="Pater" lemma="" postag="" relation="" head=""/>
+        <word id="2" form="ipse" lemma="" postag="" relation="" head=""/>
+        <word id="3" form="fīliōs" lemma="" postag="" relation="" head=""/>
+        <word id="4" form="suōs" lemma="" postag="" relation="" head=""/>
+        <word id="5" form="alere" lemma="" postag="" relation="" head=""/>
+        <word id="6" form="nōn" lemma="" postag="" relation="" head=""/>
+        <word id="7" form="potuit" lemma="" postag="" relation="" head=""/>
+        <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="2" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_101/Fall_2016_Latin-101_HW3.xml" subdoc="" span="">
+        <word id="1" form="Rēgīna" lemma="" postag="" relation="" head=""/>
+        <word id="2" form="ipsa" lemma="" postag="" relation="" head=""/>
+        <word id="3" form="ōlim" lemma="" postag="" relation="" head=""/>
+        <word id="4" form="erat" lemma="" postag="" relation="" head=""/>
+        <word id="5" form="caput" lemma="" postag="" relation="" head=""/>
+        <word id="6" form="patriae" lemma="" postag="" relation="" head=""/>
+        <word id="7" form="suae" lemma="" postag="" relation="" head=""/>
+        <word id="8" form="in" lemma="" postag="" relation="" head=""/>
+        <word id="9" form="Asiā" lemma="" postag="" relation="" head=""/>
+        <word id="10" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="3" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_101/Fall_2016_Latin-101_HW3.xml" subdoc="" span="">
+        <word id="1" form="Prō" lemma="" postag="" relation="" head=""/>
+        <word id="2" form="patriā" lemma="" postag="" relation="" head=""/>
+        <word id="3" form="Caesarī" lemma="" postag="" relation="" head=""/>
+        <word id="4" form="ipsī" lemma="" postag="" relation="" head=""/>
+        <word id="5" form="multa" lemma="" postag="" relation="" head=""/>
+        <word id="6" form="dederāmus" lemma="" postag="" relation="" head=""/>
+        <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="4" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_101/Fall_2016_Latin-101_HW3.xml" subdoc="" span="">
+        <word id="1" form="Post" lemma="" postag="" relation="" head=""/>
+        <word id="2" form="multōs" lemma="" postag="" relation="" head=""/>
+        <word id="3" form="annōs" lemma="" postag="" relation="" head=""/>
+        <word id="4" form="ea" lemma="" postag="" relation="" head=""/>
+        <word id="5" form="fēmina" lemma="" postag="" relation="" head=""/>
+        <word id="6" form="patientiam" lemma="" postag="" relation="" head=""/>
+        <word id="7" form="eius" lemma="" postag="" relation="" head=""/>
+        <word id="8" form="laudat" lemma="" postag="" relation="" head=""/>
+        <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="5" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_101/Fall_2016_Latin-101_HW3.xml" subdoc="" span="">
+        <word id="1" form="Propter" lemma="" postag="" relation="" head=""/>
+        <word id="2" form="illās" lemma="" postag="" relation="" head=""/>
+        <word id="3" form="nūbēs" lemma="" postag="" relation="" head=""/>
+        <word id="4" form="nautae" lemma="" postag="" relation="" head=""/>
+        <word id="5" form="in" lemma="" postag="" relation="" head=""/>
+        <word id="6" form="Asiā" lemma="" postag="" relation="" head=""/>
+        <word id="7" form="remanēbant" lemma="" postag="" relation="" head=""/>
+        <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="6" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_101/Fall_2016_Latin-101_HW3.xml" subdoc="" span="">
+        <word id="1" form="Cōnsulēs" lemma="" postag="" relation="" head=""/>
+        <word id="2" form="cīvitātem" lemma="" postag="" relation="" head=""/>
+        <word id="3" form="magnā" lemma="" postag="" relation="" head=""/>
+        <word id="4" form="cum" lemma="" postag="" relation="" head=""/>
+        <word id="5" form="sapientiā" lemma="" postag="" relation="" head=""/>
+        <word id="6" form="gessērunt" lemma="" postag="" relation="" head=""/>
+        <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="7" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_101/Fall_2016_Latin-101_HW3.xml" subdoc="" span="">
+        <word id="1" form="Paucīs" lemma="" postag="" relation="" head=""/>
+        <word id="2" form="annīs" lemma="" postag="" relation="" head=""/>
+        <word id="3" form="Rōmānī" lemma="" postag="" relation="" head=""/>
+        <word id="4" form="eam" lemma="" postag="" relation="" head=""/>
+        <word id="5" form="partem" lemma="" postag="" relation="" head=""/>
+        <word id="6" form="Ītaliae" lemma="" postag="" relation="" head=""/>
+        <word id="7" form="cēperant" lemma="" postag="" relation="" head=""/>
+        <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="8" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_101/Fall_2016_Latin-101_HW3.xml" subdoc="" span="">
+        <word id="1" form="Vīdistī" lemma="" postag="" relation="" head=""/>
+        <word id="2" form="-ne" lemma="" postag="" relation="" head=""/>
+        <word id="3" form="eō" lemma="" postag="" relation="" head=""/>
+        <word id="4" form="tempore" lemma="" postag="" relation="" head=""/>
+        <word id="5" form="patrem" lemma="" postag="" relation="" head=""/>
+        <word id="6" form="nostrum" lemma="" postag="" relation="" head=""/>
+        <word id="7" form="inter" lemma="" postag="" relation="" head=""/>
+        <word id="8" form="illōs" lemma="" postag="" relation="" head=""/>
+        <word id="9" form="aliōs" lemma="" postag="" relation="" head=""/>
+        <word id="10" form="virōs" lemma="" postag="" relation="" head=""/>
+        <word id="11" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="9" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_101/Fall_2016_Latin-101_HW3.xml" subdoc="" span="">
+        <word id="1" form="Ille" lemma="" postag="" relation="" head=""/>
+        <word id="2" form="adulēscēns" lemma="" postag="" relation="" head=""/>
+        <word id="3" form="doctus" lemma="" postag="" relation="" head=""/>
+        <word id="4" form="multa" lemma="" postag="" relation="" head=""/>
+        <word id="5" form="per" lemma="" postag="" relation="" head=""/>
+        <word id="6" form="labōrem" lemma="" postag="" relation="" head=""/>
+        <word id="7" form="suum" lemma="" postag="" relation="" head=""/>
+        <word id="8" form="didicerat" lemma="" postag="" relation="" head=""/>
+        <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="10" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_101/Fall_2016_Latin-101_HW3.xml" subdoc="" span="">
+        <word id="1" form="Eā" lemma="" postag="" relation="" head=""/>
+        <word id="2" form="fēmina" lemma="" postag="" relation="" head=""/>
+        <word id="3" form="propter" lemma="" postag="" relation="" head=""/>
+        <word id="4" form="virtūtem" lemma="" postag="" relation="" head=""/>
+        <word id="5" form="sē" lemma="" postag="" relation="" head=""/>
+        <word id="6" form="necāvit" lemma="" postag="" relation="" head=""/>
+        <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="11" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_101/Fall_2016_Latin-101_HW3.xml" subdoc="" span="">
+        <word id="1" form="Rēgēs" lemma="" postag="" relation="" head=""/>
+        <word id="2" form="Rōmam" lemma="" postag="" relation="" head=""/>
+        <word id="3" form="cum" lemma="" postag="" relation="" head=""/>
+        <word id="4" form="aliīs" lemma="" postag="" relation="" head=""/>
+        <word id="5" form="urbibus" lemma="" postag="" relation="" head=""/>
+        <word id="6" form="iūnxērunt" lemma="" postag="" relation="" head=""/>
+        <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="12" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_101/Fall_2016_Latin-101_HW3.xml" subdoc="" span="">
+        <word id="1" form="In" lemma="" postag="" relation="" head=""/>
+        <word id="2" form="prīncipiō" lemma="" postag="" relation="" head=""/>
+        <word id="3" form="deus" lemma="" postag="" relation="" head=""/>
+        <word id="4" form="hominēs" lemma="" postag="" relation="" head=""/>
+        <word id="5" form="in" lemma="" postag="" relation="" head=""/>
+        <word id="6" form="fōrmā" lemma="" postag="" relation="" head=""/>
+        <word id="7" form="suā" lemma="" postag="" relation="" head=""/>
+        <word id="8" form="creāvit" lemma="" postag="" relation="" head=""/>
+        <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+</treebank>
