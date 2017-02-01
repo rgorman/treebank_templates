@@ -20,7 +20,7 @@
         <address>rgorman1@unl.edu</address>
         <uri>http://data.perseus.org/sosol/users/RobertGorman</uri>
     </annotator>
-    <sentence id="1" document_id="" subdoc="" span="">
+    <sentence id="1" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml" subdoc="" span="">
         <word id="1" form="Sapientia" lemma="" postag="" relation="" head=""/>
         <word id="2" form="vēra" lemma="" postag="" relation="" head=""/>
         <word id="3" form="in" lemma="" postag="" relation="" head=""/>
@@ -30,7 +30,7 @@
         <word id="7" form="inveniētur" lemma="" postag="" relation="" head=""/>
         <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="2" document_id="" subdoc="" span="">
+    <sentence id="2" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml" subdoc="" span="">
         <word id="1" form="Librī" lemma="" postag="" relation="" head=""/>
         <word id="2" form="huius" lemma="" postag="" relation="" head=""/>
         <word id="3" form="generis" lemma="" postag="" relation="" head=""/>
@@ -40,7 +40,7 @@
         <word id="7" form="dabantur" lemma="" postag="" relation="" head=""/>
         <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="3" document_id="" subdoc="" span="">
+    <sentence id="3" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml" subdoc="" span="">
         <word id="1" form="Quae" lemma="" postag="" relation="" head=""/>
         <word id="2" form="argūmenta" lemma="" postag="" relation="" head=""/>
         <word id="3" form="certa" lemma="" postag="" relation="" head=""/>
@@ -54,7 +54,7 @@
         <word id="11" form="erant" lemma="" postag="" relation="" head=""/>
         <word id="12" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="4" document_id="" subdoc="" span="">
+    <sentence id="4" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml" subdoc="" span="">
         <word id="1" form="Paucīs" lemma="" postag="" relation="" head=""/>
         <word id="2" form="hōrīs" lemma="" postag="" relation="" head=""/>
         <word id="3" form="illa" lemma="" postag="" relation="" head=""/>
@@ -67,7 +67,7 @@
         <word id="10" form="coeperant" lemma="" postag="" relation="" head=""/>
         <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="5" document_id="" subdoc="" span="">
+    <sentence id="5" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml" subdoc="" span="">
         <word id="1" form="Post" lemma="" postag="" relation="" head=""/>
         <word id="2" form="tempus" lemma="" postag="" relation="" head=""/>
         <word id="3" form="longum" lemma="" postag="" relation="" head=""/>
@@ -78,7 +78,7 @@
         <word id="8" form="poteris" lemma="" postag="" relation="" head=""/>
         <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="6" document_id="" subdoc="" span="">
+    <sentence id="6" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml" subdoc="" span="">
         <word id="1" form="Animus" lemma="" postag="" relation="" head=""/>
         <word id="2" form="eius" lemma="" postag="" relation="" head=""/>
         <word id="3" form="cupiditāte" lemma="" postag="" relation="" head=""/>
@@ -88,7 +88,7 @@
         <word id="7" form="poterat" lemma="" postag="" relation="" head=""/>
         <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="7" document_id="" subdoc="" span="">
+    <sentence id="7" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml" subdoc="" span="">
         <word id="1" form="Senem" lemma="" postag="" relation="" head=""/>
         <word id="2" form="cuius" lemma="" postag="" relation="" head=""/>
         <word id="3" form="familia" lemma="" postag="" relation="" head=""/>
@@ -98,7 +98,7 @@
         <word id="7" form="vīdī" lemma="" postag="" relation="" head=""/>
         <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="8" document_id="" subdoc="" span="">
+    <sentence id="8" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml" subdoc="" span="">
         <word id="1" form="Multa" lemma="" postag="" relation="" head=""/>
         <word id="2" form="in" lemma="" postag="" relation="" head=""/>
         <word id="3" form="mundō" lemma="" postag="" relation="" head=""/>
@@ -111,7 +111,7 @@
         <word id="10" form="possunt" lemma="" postag="" relation="" head=""/>
         <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="9" document_id="" subdoc="" span="">
+    <sentence id="9" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml" subdoc="" span="">
         <word id="1" form="Quis" lemma="" postag="" relation="" head=""/>
         <word id="2" form="ex" lemma="" postag="" relation="" head=""/>
         <word id="3" form="montibus" lemma="" postag="" relation="" head=""/>
@@ -125,7 +125,7 @@
         <word id="11" form="mittētur" lemma="" postag="" relation="" head=""/>
         <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="10" document_id="" subdoc="" span="">
+    <sentence id="10" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml" subdoc="" span="">
         <word id="1" form="Virtūs" lemma="" postag="" relation="" head=""/>
         <word id="2" form="multā" lemma="" postag="" relation="" head=""/>
         <word id="3" form="pecūniā" lemma="" postag="" relation="" head=""/>
@@ -133,7 +133,7 @@
         <word id="5" form="parātur" lemma="" postag="" relation="" head=""/>
         <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="11" document_id="" subdoc="" span="">
+    <sentence id="11" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml" subdoc="" span="">
         <word id="1" form="Ōdī" lemma="" postag="" relation="" head=""/>
         <word id="2" form="servitūtem" lemma="" postag="" relation="" head=""/>
         <word id="3" form="quae" lemma="" postag="" relation="" head=""/>
@@ -145,7 +145,7 @@
         <word id="9" form="prohibet" lemma="" postag="" relation="" head=""/>
         <word id="10" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="12" document_id="" subdoc="" span="">
+    <sentence id="12" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml" subdoc="" span="">
         <word id="1" form="Eō" lemma="" postag="" relation="" head=""/>
         <word id="2" form="diē" lemma="" postag="" relation="" head=""/>
         <word id="3" form="vīcīnī" lemma="" postag="" relation="" head=""/>
@@ -155,7 +155,7 @@
         <word id="7" form="labōrāvērunt" lemma="" postag="" relation="" head=""/>
         <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="13" document_id="" subdoc="" span="">
+    <sentence id="13" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml" subdoc="" span="">
         <word id="1" form="Paucīs" lemma="" postag="" relation="" head=""/>
         <word id="2" form="diēbus" lemma="" postag="" relation="" head=""/>
         <word id="3" form="Cicerō" lemma="" postag="" relation="" head=""/>
@@ -166,7 +166,7 @@
         <word id="8" form="ēripiet" lemma="" postag="" relation="" head=""/>
         <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="14" document_id="" subdoc="" span="">
+    <sentence id="14" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml" subdoc="" span="">
         <word id="1" form="Senātus" lemma="" postag="" relation="" head=""/>
         <word id="2" form="cīvēs" lemma="" postag="" relation="" head=""/>
         <word id="3" form="nostrōs" lemma="" postag="" relation="" head=""/>
@@ -179,7 +179,7 @@
         <word id="10" form="dēfendit" lemma="" postag="" relation="" head=""/>
         <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="15" document_id="" subdoc="" span="">
+    <sentence id="15" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml" subdoc="" span="">
         <word id="1" form="Aquae" lemma="" postag="" relation="" head=""/>
         <word id="2" form="celerēs" lemma="" postag="" relation="" head=""/>
         <word id="3" form="flūminum" lemma="" postag="" relation="" head=""/>
