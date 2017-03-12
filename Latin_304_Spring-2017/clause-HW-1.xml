@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <treebank xmlns:saxon="http://saxon.sf.net/"
           xml:lang="lat"
-          format="aldt"
+          format="midlat"
           direction="ltr"
           version="1.5">
    <date>2016-09-17 19:46:48 +0000</date>
