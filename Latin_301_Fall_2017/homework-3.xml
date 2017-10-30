@@ -4,7 +4,7 @@
           format="midlat"
           direction="ltr"
           version="1.5">
-   <date>2017-10-30 15:26:34 +0000</date>
+   <date>2017-10-30 15:38:44 +0000</date>
    <annotator>
       <short/>
       <name/>
@@ -23,522 +23,583 @@
       <address>rgorman1@unl.edu</address>
       <uri>http://data.perseus.org/sosol/users/Bob%20Gorman</uri>
   </annotator>
-   <sentence id="1" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="post" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="mortem" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="Hadriānī" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="repugnantibus" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="cūnctīs" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="inter" lemma="" postag="" relation="" head=""/>
-      <word id="7" form="dīvōs" lemma="" postag="" relation="" head=""/>
-      <word id="8" form="eum" lemma="" postag="" relation="" head=""/>
-      <word id="9" form="rettulit" lemma="" postag="" relation="" head=""/>
-      <word id="10" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="11" form="uxōrem" lemma="" postag="" relation="" head=""/>
-      <word id="12" form="Faustīnam" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="Augustam" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="appellārī" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="ā" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="senātū" lemma="" postag="" relation="" head=""/>
-      <word id="17" form="permīsit" lemma="" postag="" relation="" head=""/>
+   <sentence id="1"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="post" lemma="post" postag="r--------" relation="" head=""/>
+      <word id="2" form="mortem" lemma="mors" postag="n-s---fa-" relation="" head=""/>
+      <word id="3" form="Hadriānī" lemma="Hadriānus" postag="n-s---mg-" relation="" head=""/>
+      <word id="4" form="repugnantibus" lemma="repugnantia" postag="n-p---nb-" relation="" head=""/>
+      <word id="5" form="cūnctīs" lemma="cunctus" postag="a-p---nb-" relation="" head=""/>
+      <word id="6" form="inter" lemma="inter" postag="d--------" relation="" head=""/>
+      <word id="7" form="dīvōs" lemma="divus" postag="a-p---ma-" relation="" head=""/>
+      <word id="8" form="eum" lemma="is" postag="p-s---ma-" relation="" head=""/>
+      <word id="9" form="rettulit" lemma="refero" postag="v3sria---" relation="" head=""/>
+      <word id="10" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="11" form="uxōrem" lemma="uxor" postag="n-s---fa-" relation="" head=""/>
+      <word id="12" form="Faustīnam" lemma="Faustīna" postag="n-s---fa-" relation="" head=""/>
+      <word id="13" form="Augustam" lemma="Augusta" postag="n-s---fa-" relation="" head=""/>
+      <word id="14" form="appellārī" lemma="appello" postag="v--pnp---" relation="" head=""/>
+      <word id="15" form="ā" lemma="a" postag="e--------" relation="" head=""/>
+      <word id="16" form="senātū" lemma="senatus" postag="n-s---mb-" relation="" head=""/>
+      <word id="17" form="permīsit" lemma="permitto" postag="v3sria---" relation="" head=""/>
       <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="2" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="Piī" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="appellātiōnem" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="recēpit" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="atque" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="patrī" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="7" form="mātrī" lemma="" postag="" relation="" head=""/>
-      <word id="8" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="9" form="avīs" lemma="" postag="" relation="" head=""/>
-      <word id="10" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="11" form="frātribus" lemma="" postag="" relation="" head=""/>
-      <word id="12" form="iam" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="mortuīs" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="statuās" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="dēcrētās" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="libenter" lemma="" postag="" relation="" head=""/>
-      <word id="17" form="accēpit" lemma="" postag="" relation="" head=""/>
+   <sentence id="2"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="Piī" lemma="Pius" postag="n-s---mg-" relation="" head=""/>
+      <word id="2" form="appellātiōnem" lemma="appellatio" postag="n-s---fa-" relation="" head=""/>
+      <word id="3" form="recēpit" lemma="recipio" postag="v3sria---" relation="" head=""/>
+      <word id="4" form="atque" lemma="atque" postag="c--------" relation="" head=""/>
+      <word id="5" form="patrī" lemma="pater" postag="n-s---md-" relation="" head=""/>
+      <word id="6" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="7" form="mātrī" lemma="mater" postag="n-s---fd-" relation="" head=""/>
+      <word id="8" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="9" form="avīs" lemma="avia1" postag="n-p---fb-" relation="" head=""/>
+      <word id="10" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="11" form="frātribus" lemma="frater" postag="n-p---mb-" relation="" head=""/>
+      <word id="12" form="iam" lemma="jam" postag="d--------" relation="" head=""/>
+      <word id="13" form="mortuīs" lemma="morior" postag="v-prppnb-" relation="" head=""/>
+      <word id="14" form="statuās" lemma="statua" postag="n-p---fa-" relation="" head=""/>
+      <word id="15" form="dēcrētās" lemma="decerno" postag="v-prppfa-" relation="" head=""/>
+      <word id="16" form="libenter" lemma="libenter" postag="d--------" relation="" head=""/>
+      <word id="17" form="accēpit" lemma="accipio" postag="v3sria---" relation="" head=""/>
       <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="3" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="Factus" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="imperātor" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="nūllī" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="eōrum" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="quōs" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="Hadriānus" lemma="" postag="" relation="" head=""/>
-      <word id="7" form="prōvēxerat" lemma="" postag="" relation="" head=""/>
-      <word id="8" form="successōrem" lemma="" postag="" relation="" head=""/>
-      <word id="9" form="dedit" lemma="" postag="" relation="" head=""/>
-      <word id="10" form="fuit" lemma="" postag="" relation="" head=""/>
-      <word id="11" form="-que" lemma="" postag="" relation="" head=""/>
-      <word id="12" form="eā" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="cōnstantiā" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="ut" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="septēnīs" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="17" form="novēnīs" lemma="" postag="" relation="" head=""/>
-      <word id="18" form="annīs" lemma="" postag="" relation="" head=""/>
-      <word id="19" form="in" lemma="" postag="" relation="" head=""/>
-      <word id="20" form="prōvinciīs" lemma="" postag="" relation="" head=""/>
-      <word id="21" form="bonōs" lemma="" postag="" relation="" head=""/>
-      <word id="22" form="praesidēs" lemma="" postag="" relation="" head=""/>
-      <word id="23" form="dētinēret" lemma="" postag="" relation="" head=""/>
+   <sentence id="3"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="Factus" lemma="facio" postag="v-srppmn-" relation="" head=""/>
+      <word id="2" form="imperātor" lemma="imperator" postag="n-s---mn-" relation="" head=""/>
+      <word id="3" form="nūllī" lemma="nullus" postag="a-s---ng-" relation="" head=""/>
+      <word id="4" form="eōrum" lemma="is" postag="p-p---mg-" relation="" head=""/>
+      <word id="5" form="quōs" lemma="qui1" postag="n-p---ma-" relation="" head=""/>
+      <word id="6" form="Hadriānus" lemma="Hadriānus" postag="n-s---mn-" relation="" head=""/>
+      <word id="7" form="prōvēxerat" lemma="proveho" postag="v3slia---" relation="" head=""/>
+      <word id="8" form="successōrem" lemma="successor" postag="n-s---ma-" relation="" head=""/>
+      <word id="9" form="dedit" lemma="dedo" postag="v3spia---" relation="" head=""/>
+      <word id="10" form="fuit" lemma="sum1" postag="v3sria---" relation="" head=""/>
+      <word id="11" form="-que" lemma="-que" postag="c--------" relation="" head=""/>
+      <word id="12" form="eā" lemma="is" postag="a-s---fb_" relation="" head=""/>
+      <word id="13" form="cōnstantiā" lemma="constantia1" postag="n-s---fb-" relation="" head=""/>
+      <word id="14" form="ut" lemma="ut" postag="c--------" relation="" head=""/>
+      <word id="15" form="septēnīs" lemma="septeni" postag="a-p---nb-" relation="" head=""/>
+      <word id="16" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="17" form="novēnīs" lemma="noveni" postag="a-p---nb-" relation="" head=""/>
+      <word id="18" form="annīs" lemma="annus" postag="n-p---mb-" relation="" head=""/>
+      <word id="19" form="in" lemma="in" postag="r--------" relation="" head=""/>
+      <word id="20" form="prōvinciīs" lemma="provincia" postag="n-p---fb-" relation="" head=""/>
+      <word id="21" form="bonōs" lemma="bonus" postag="a-p---ma-" relation="" head=""/>
+      <word id="22" form="praesidēs" lemma="praesideo" postag="v2spia---" relation="" head=""/>
+      <word id="23" form="dētinēret" lemma="detineo" postag="v3sisa---" relation="" head=""/>
       <word id="24" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="4" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="per" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="lēgātōs" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="suōs" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="plūrima" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="bella" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="gessit" lemma="" postag="" relation="" head=""/>
-      <word id="7" form="nam" lemma="" postag="" relation="" head=""/>
-      <word id="8" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="9" form="Britannōs" lemma="" postag="" relation="" head=""/>
-      <word id="10" form="per" lemma="" postag="" relation="" head=""/>
-      <word id="11" form="Lollium" lemma="" postag="" relation="" head=""/>
-      <word id="12" form="Urbicum" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="vīcit" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="Germānōs" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="17" form="Dācōs" lemma="" postag="" relation="" head=""/>
-      <word id="18" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="19" form="Iūdaeōs" lemma="" postag="" relation="" head=""/>
-      <word id="20" form="rebellantēs" lemma="" postag="" relation="" head=""/>
-      <word id="21" form="contudit" lemma="" postag="" relation="" head=""/>
-      <word id="22" form="per" lemma="" postag="" relation="" head=""/>
-      <word id="23" form="praesidēs" lemma="" postag="" relation="" head=""/>
-      <word id="24" form="ac" lemma="" postag="" relation="" head=""/>
-      <word id="25" form="lēgātōs" lemma="" postag="" relation="" head=""/>
+   <sentence id="4"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="per" lemma="per" postag="r--------" relation="" head=""/>
+      <word id="2" form="lēgātōs" lemma="legatus" postag="n-p---ma-" relation="" head=""/>
+      <word id="3" form="suōs" lemma="suus" postag="a-p---ma-" relation="" head=""/>
+      <word id="4" form="plūrima" lemma="multus" postag="a-p---nn-" relation="" head=""/>
+      <word id="5" form="bella" lemma="bello" postag="v2spma---" relation="" head=""/>
+      <word id="6" form="gessit" lemma="gero1" postag="v3sria---" relation="" head=""/>
+      <word id="7" form="nam" lemma="nam" postag="d-------_" relation="" head=""/>
+      <word id="8" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="9" form="Britannōs" lemma="Britannus" postag="n-p---ma-" relation="" head=""/>
+      <word id="10" form="per" lemma="per" postag="r--------" relation="" head=""/>
+      <word id="11" form="Lollium" lemma="Lollius" postag="n-s---ma-" relation="" head=""/>
+      <word id="12" form="Urbicum" lemma="Urbicus" postag="n-s---ma-" relation="" head="11"/>
+      <word id="13" form="vīcit" lemma="vinco" postag="v3sria---" relation="" head=""/>
+      <word id="14" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="15" form="Germānōs" lemma="Germānus" postag="n-p---ma-" relation="" head=""/>
+      <word id="16" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="17" form="Dācōs" lemma="Dācus" postag="n-p---ma-" relation="" head=""/>
+      <word id="18" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="19" form="Iūdaeōs" lemma="Iūdaeus" postag="n-p---ma-" relation="" head=""/>
+      <word id="20" form="rebellantēs" lemma="rebello" postag="v-ppp-ma-" relation="" head=""/>
+      <word id="21" form="contudit" lemma="contundo" postag="v3sria---" relation="" head=""/>
+      <word id="22" form="per" lemma="per" postag="r--------" relation="" head=""/>
+      <word id="23" form="praesidēs" lemma="praesideo" postag="v2spia---" relation="" head=""/>
+      <word id="24" form="ac" lemma="atque" postag="c--------" relation="" head=""/>
+      <word id="25" form="lēgātōs" lemma="legatus" postag="n-p---ma-" relation="" head=""/>
       <word id="26" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="5" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="Iīs" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="quōs" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="Hadriānus" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="damnāverat" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="in" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="senātū" lemma="" postag="" relation="" head=""/>
-      <word id="7" form="indulgentiās" lemma="" postag="" relation="" head=""/>
-      <word id="8" form="petiit" lemma="" postag="" relation="" head=""/>
+   <sentence id="5"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="Iīs" lemma="is" postag="p-p---md-" relation="" head=""/>
+      <word id="2" form="quōs" lemma="qui1" postag="n-p---ma-" relation="" head=""/>
+      <word id="3" form="Hadriānus" lemma="Hadriānus" postag="n-s---mn-" relation="" head=""/>
+      <word id="4" form="damnāverat" lemma="damno" postag="v3slia---" relation="" head=""/>
+      <word id="5" form="in" lemma="in" postag="r--------" relation="" head=""/>
+      <word id="6" form="senātū" lemma="senatus" postag="n-s---mb-" relation="" head=""/>
+      <word id="7" form="indulgentiās" lemma="indulgentia" postag="n-p---fa-" relation="" head=""/>
+      <word id="8" form="petiit" lemma="peto" postag="v3sria---" relation="" head=""/>
       <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="10" form="dīcēns" lemma="" postag="" relation="" head=""/>
-      <word id="11" form="etiam" lemma="" postag="" relation="" head=""/>
-      <word id="12" form="ipsum" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="Hadriānum" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="hōc" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="fuisse" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="factūrum" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="dīcēns" lemma="dico2" postag="v-spp-na-" relation="" head=""/>
+      <word id="11" form="etiam" lemma="etiam" postag="d-------_" relation="" head=""/>
+      <word id="12" form="ipsum" lemma="ipse" postag="p-s---ma-" relation="" head=""/>
+      <word id="13" form="Hadriānum" lemma="Hadriānus" postag="n-s---ma-" relation="" head=""/>
+      <word id="14" form="hōc" lemma="hic" postag="p-s---nn-" relation="" head=""/>
+      <word id="15" form="fuisse" lemma="sum1" postag="v--rna---" relation="" head=""/>
+      <word id="16" form="factūrum" lemma="facio" postag="v-pfpang-" relation="" head=""/>
       <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="6" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="imperātōrium" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="fastīgium" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="ad" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="summam" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="cīvīlitātem" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="dēdūxit" lemma="" postag="" relation="" head=""/>
+   <sentence id="6"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="imperātōrium" lemma="imperatorius" postag="a-p---ng-" relation="" head=""/>
+      <word id="2" form="fastīgium" lemma="fastigium" postag="n-p---ng-" relation="" head=""/>
+      <word id="3" form="ad" lemma="ad" postag="r--------" relation="" head=""/>
+      <word id="4" form="summam" lemma="summa" postag="n-s---fa-" relation="" head=""/>
+      <word id="5" form="cīvīlitātem" lemma="civilitas" postag="n-s---fa-" relation="" head=""/>
+      <word id="6" form="dēdūxit" lemma="deduco" postag="v3sria---" relation="" head=""/>
       <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="8" form="recūsantibus" lemma="" postag="" relation="" head=""/>
-      <word id="9" form="aulicīs" lemma="" postag="" relation="" head=""/>
-      <word id="10" form="ministrīs" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="recūsantibus" lemma="recuso" postag="v-ppp-mb-" relation="" head=""/>
+      <word id="9" form="aulicīs" lemma="aulici" postag="n-p---mb-" relation="" head=""/>
+      <word id="10" form="ministrīs" lemma="minister" postag="a-p---nb-" relation="" head=""/>
       <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="12" form="quī" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="illō" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="nihil" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="per" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="internūntiōs" lemma="" postag="" relation="" head=""/>
-      <word id="17" form="agente" lemma="" postag="" relation="" head=""/>
-      <word id="18" form="terrēre" lemma="" postag="" relation="" head=""/>
-      <word id="19" form="nōn" lemma="" postag="" relation="" head=""/>
-      <word id="20" form="poterant" lemma="" postag="" relation="" head=""/>
-      <word id="21" form="hominēs" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="quī" lemma="qui2" postag="p-s---mn-" relation="" head=""/>
+      <word id="13" form="illō" lemma="ille" postag="p-s---mb-" relation="" head=""/>
+      <word id="14" form="nihil" lemma="nihil" postag="n-s---nn-" relation="" head=""/>
+      <word id="15" form="per" lemma="per" postag="r--------" relation="" head=""/>
+      <word id="16" form="internūntiōs" lemma="internuntius" postag="n-p---ma-" relation="" head=""/>
+      <word id="17" form="agente" lemma="ago" postag="v-spp-mb-" relation="" head=""/>
+      <word id="18" form="terrēre" lemma="terreo" postag="v2spmp---" relation="" head=""/>
+      <word id="19" form="nōn" lemma="non" postag="d--------" relation="" head=""/>
+      <word id="20" form="poterant" lemma="possum" postag="v3piia---" relation="" head=""/>
+      <word id="21" form="hominēs" lemma="homo" postag="n-p---ma-" relation="" head=""/>
       <word id="22" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="7" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="senātuī" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="tantum" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="dētulit" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="imperātor" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="quantum" lemma="" postag="" relation="" head=""/>
+   <sentence id="7"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="senātuī" lemma="senatus" postag="n-s---md-" relation="" head=""/>
+      <word id="2" form="tantum" lemma="tantus" postag="a-p---ng-" relation="" head=""/>
+      <word id="3" form="dētulit" lemma="defero" postag="v3sria---" relation="" head=""/>
+      <word id="4" form="imperātor" lemma="imperator" postag="n-s---mn-" relation="" head=""/>
+      <word id="5" form="quantum" lemma="quantum" postag="d--------" relation="" head=""/>
       <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="7" form="cum" lemma="" postag="" relation="" head=""/>
-      <word id="8" form="prīvātus" lemma="" postag="" relation="" head=""/>
-      <word id="9" form="esset" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="cum" lemma="cum" postag="c--------" relation="" head=""/>
+      <word id="8" form="prīvātus" lemma="privatus" postag="n-s---mn-" relation="" head=""/>
+      <word id="9" form="esset" lemma="sum1" postag="v3sisa---" relation="" head=""/>
       <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="11" form="dēferrī" lemma="" postag="" relation="" head=""/>
-      <word id="12" form="sibi" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="ab" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="aliō" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="prīncipe" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="optāvit" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="dēferrī" lemma="defero" postag="v--pnp---" relation="" head=""/>
+      <word id="12" form="sibi" lemma="sui" postag="p-s---md-" relation="" head=""/>
+      <word id="13" form="ab" lemma="ab" postag="r--------" relation="" head=""/>
+      <word id="14" form="aliō" lemma="alio" postag="d--------" relation="" head=""/>
+      <word id="15" form="prīncipe" lemma="princeps" postag="n-s---mb-" relation="" head=""/>
+      <word id="16" form="optāvit" lemma="opto" postag="v3sria---" relation="" head=""/>
       <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="8" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="patris" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="patriae" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="nōmen" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="dēlātum" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="ā" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="senātū" lemma="" postag="" relation="" head=""/>
+   <sentence id="8"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="patris" lemma="pater" postag="n-s---mg-" relation="" head=""/>
+      <word id="2" form="patriae" lemma="patria" postag="n-p---fn-" relation="" head=""/>
+      <word id="3" form="nōmen" lemma="nome" postag="n-s---fa-" relation="" head=""/>
+      <word id="4" form="dēlātum" lemma="defero" postag="v-prppng-" relation="" head=""/>
+      <word id="5" form="ā" lemma="a" postag="e--------" relation="" head=""/>
+      <word id="6" form="senātū" lemma="senatus" postag="n-s---mb-" relation="" head=""/>
       <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="8" form="quod" lemma="" postag="" relation="" head=""/>
-      <word id="9" form="prīmō" lemma="" postag="" relation="" head=""/>
-      <word id="10" form="distulerat" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="quod" lemma="quod" postag="c--------" relation="" head=""/>
+      <word id="9" form="prīmō" lemma="primo" postag="d--------" relation="" head=""/>
+      <word id="10" form="distulerat" lemma="differo" postag="v3slia---" relation="" head=""/>
       <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="12" form="cum" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="ingentī" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="grātiārum" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="āctiōne" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="suscēpit" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="cum" lemma="cum" postag="c--------" relation="" head=""/>
+      <word id="13" form="ingentī" lemma="ingens" postag="a-s---mb-" relation="" head=""/>
+      <word id="14" form="grātiārum" lemma="gratia" postag="n-p---fg-" relation="" head=""/>
+      <word id="15" form="āctiōne" lemma="actio" postag="n-s---fb-" relation="" head=""/>
+      <word id="16" form="suscēpit" lemma="suscipio" postag="v3sria---" relation="" head=""/>
       <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="9" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="tertiō" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="annō" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="imperiī" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="suī" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="Faustīnam" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="uxōrem" lemma="" postag="" relation="" head=""/>
-      <word id="7" form="perdidit" lemma="" postag="" relation="" head=""/>
+   <sentence id="9"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="tertiō" lemma="tertio2" postag="v1spia---" relation="" head=""/>
+      <word id="2" form="annō" lemma="adnato" postag="v1spia---" relation="" head=""/>
+      <word id="3" form="imperiī" lemma="imperium" postag="n-s---ng-" relation="" head=""/>
+      <word id="4" form="suī" lemma="sui" postag="p-p---mg-" relation="" head=""/>
+      <word id="5" form="Faustīnam" lemma="Faustīna" postag="n-s---fa-" relation="" head=""/>
+      <word id="6" form="uxōrem" lemma="uxor" postag="n-s---fa-" relation="" head=""/>
+      <word id="7" form="perdidit" lemma="perdo" postag="v3sria---" relation="" head=""/>
       <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="9" form="quae" lemma="" postag="" relation="" head=""/>
-      <word id="10" form="ā" lemma="" postag="" relation="" head=""/>
-      <word id="11" form="senātū" lemma="" postag="" relation="" head=""/>
-      <word id="12" form="cōnsecrāta" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="est" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="dēlātīs" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="circēnsibus" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="atque" lemma="" postag="" relation="" head=""/>
-      <word id="17" form="templō" lemma="" postag="" relation="" head=""/>
-      <word id="18" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="19" form="flāminicīs" lemma="" postag="" relation="" head=""/>
-      <word id="20" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="21" form="statuīs" lemma="" postag="" relation="" head=""/>
-      <word id="22" form="aureīs" lemma="" postag="" relation="" head=""/>
-      <word id="23" form="atque" lemma="" postag="" relation="" head=""/>
-      <word id="24" form="argenteīs" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="quae" lemma="qui2" postag="a-p---na_" relation="" head=""/>
+      <word id="10" form="ā" lemma="a" postag="e--------" relation="" head=""/>
+      <word id="11" form="senātū" lemma="senatus" postag="n-s---mb-" relation="" head=""/>
+      <word id="12" form="cōnsecrāta" lemma="consecratus" postag="a-p---nn-" relation="" head=""/>
+      <word id="13" form="est" lemma="sum1" postag="v3spia---" relation="" head=""/>
+      <word id="14" form="dēlātīs" lemma="defero" postag="v-prppnb-" relation="" head=""/>
+      <word id="15" form="circēnsibus" lemma="circensis" postag="a-p---mb-" relation="" head=""/>
+      <word id="16" form="atque" lemma="atque" postag="c--------" relation="" head=""/>
+      <word id="17" form="templō" lemma="templum" postag="n-s---nb-" relation="" head=""/>
+      <word id="18" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="19" form="flāminicīs" lemma="flaminica" postag="n-p---fb-" relation="" head=""/>
+      <word id="20" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="21" form="statuīs" lemma="statua" postag="n-p---fb-" relation="" head=""/>
+      <word id="22" form="aureīs" lemma="aurea" postag="n-p---fb-" relation="" head=""/>
+      <word id="23" form="atque" lemma="atque" postag="c--------" relation="" head=""/>
+      <word id="24" form="argenteīs" lemma="argenteus1" postag="a-p---nb-" relation="" head=""/>
       <word id="25" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="10" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="dē" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="prōvinciīs" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="ne" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="-que" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="dē" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="ūllīs" lemma="" postag="" relation="" head=""/>
-      <word id="7" form="āctibus" lemma="" postag="" relation="" head=""/>
-      <word id="8" form="quicquam" lemma="" postag="" relation="" head=""/>
-      <word id="9" form="cōnstituit" lemma="" postag="" relation="" head=""/>
-      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="11" form="nisi" lemma="" postag="" relation="" head=""/>
-      <word id="12" form="quod" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="prius" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="ad" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="amīcōs" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="rettulit" lemma="" postag="" relation="" head=""/>
-      <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="11" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="Victus" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="Antōnīnī" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="Piī" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="tālis" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="fuit" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="ut" lemma="" postag="" relation="" head=""/>
-      <word id="7" form="esset" lemma="" postag="" relation="" head=""/>
-      <word id="8" form="opulentiā" lemma="" postag="" relation="" head=""/>
-      <word id="9" form="sine" lemma="" postag="" relation="" head=""/>
-      <word id="10" form="reprehēnsiōne" lemma="" postag="" relation="" head=""/>
-      <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="12" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="mēnsa" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="eius" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="per" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="propriōs" lemma="" postag="" relation="" head=""/>
-      <word id="17" form="servōs" lemma="" postag="" relation="" head=""/>
-      <word id="18" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="19" form="per" lemma="" postag="" relation="" head=""/>
-      <word id="20" form="propriōs" lemma="" postag="" relation="" head=""/>
-      <word id="21" form="aucupēs" lemma="" postag="" relation="" head=""/>
-      <word id="22" form="piscātōrēs" lemma="" postag="" relation="" head=""/>
-      <word id="23" form="ac" lemma="" postag="" relation="" head=""/>
-      <word id="24" form="vēnātōrēs" lemma="" postag="" relation="" head=""/>
-      <word id="25" form="īnstruerētur" lemma="" postag="" relation="" head=""/>
-      <word id="26" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="12" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="balneum" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="3" form="quō" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="ūsus" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="erat" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="7" form="sine" lemma="" postag="" relation="" head=""/>
-      <word id="8" form="mercēde" lemma="" postag="" relation="" head=""/>
-      <word id="9" form="populō" lemma="" postag="" relation="" head=""/>
-      <word id="10" form="exhibuit" lemma="" postag="" relation="" head=""/>
-      <word id="11" form="ne" lemma="" postag="" relation="" head=""/>
-      <word id="12" form="-c" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="omnīnō" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="quicquam" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="dē" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="vītae" lemma="" postag="" relation="" head=""/>
-      <word id="17" form="prīvātae" lemma="" postag="" relation="" head=""/>
-      <word id="18" form="quālitāte" lemma="" postag="" relation="" head=""/>
-      <word id="19" form="mūtāvit" lemma="" postag="" relation="" head=""/>
-      <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="13" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="salāria" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="multīs" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="subtrāxit" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="5" form="dīcēns" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="nihil" lemma="" postag="" relation="" head=""/>
-      <word id="7" form="esse" lemma="" postag="" relation="" head=""/>
-      <word id="8" form="sordidius" lemma="" postag="" relation="" head=""/>
+   <sentence id="10"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="dē" lemma="de" postag="r--------" relation="" head=""/>
+      <word id="2" form="prōvinciīs" lemma="provincia" postag="n-p---fb-" relation="" head=""/>
+      <word id="3" form="nōn" lemma="non" postag="d--------" relation="" head=""/>
+      <word id="4" form="dē" lemma="de" postag="r--------" relation="" head=""/>
+      <word id="5" form="ūllīs" lemma="ullus" postag="a-p---fb-" relation="" head=""/>
+      <word id="6" form="āctibus" lemma="actus2" postag="n-p---mb-" relation="" head=""/>
+      <word id="7" form="quicquam" lemma="quisquam" postag="p-s---nn-" relation="" head=""/>
+      <word id="8" form="cōnstituit" lemma="constituo" postag="v3spia---" relation="" head=""/>
       <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="10" form="quam" lemma="" postag="" relation="" head=""/>
-      <word id="11" form="sī" lemma="" postag="" relation="" head=""/>
-      <word id="12" form="rem" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="pūblicam" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="is" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="adrōderet" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="quī" lemma="" postag="" relation="" head=""/>
-      <word id="17" form="nihil" lemma="" postag="" relation="" head=""/>
-      <word id="18" form="in" lemma="" postag="" relation="" head=""/>
-      <word id="19" form="eam" lemma="" postag="" relation="" head=""/>
-      <word id="20" form="suō" lemma="" postag="" relation="" head=""/>
-      <word id="21" form="labōre" lemma="" postag="" relation="" head=""/>
-      <word id="22" form="cōnferret" lemma="" postag="" relation="" head=""/>
-      <word id="23" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="14" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="speciēs" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="imperātōriās" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="superfluās" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="praedia" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="vēndidit" lemma="" postag="" relation="" head=""/>
-      <word id="7" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="8" form="in" lemma="" postag="" relation="" head=""/>
-      <word id="9" form="suīs" lemma="" postag="" relation="" head=""/>
-      <word id="10" form="propriīs" lemma="" postag="" relation="" head=""/>
-      <word id="11" form="fundīs" lemma="" postag="" relation="" head=""/>
-      <word id="12" form="vīxit" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="variē" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="ac" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="prō" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="temporibus" lemma="" postag="" relation="" head=""/>
-      <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="15" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="ne" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="-c" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="ūllās" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="expedītiōnēs" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="obiit" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="7" form="nisi" lemma="" postag="" relation="" head=""/>
-      <word id="8" form="quod" lemma="" postag="" relation="" head=""/>
-      <word id="9" form="ad" lemma="" postag="" relation="" head=""/>
-      <word id="10" form="agrōs" lemma="" postag="" relation="" head=""/>
-      <word id="11" form="suōs" lemma="" postag="" relation="" head=""/>
-      <word id="12" form="profectus" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="est" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="ad" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="Campāniam" lemma="" postag="" relation="" head=""/>
-      <word id="17" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="18" form="dīcēns" lemma="" postag="" relation="" head=""/>
-      <word id="19" form="gravem" lemma="" postag="" relation="" head=""/>
-      <word id="20" form="esse" lemma="" postag="" relation="" head=""/>
-      <word id="21" form="prōvinciālibus" lemma="" postag="" relation="" head=""/>
-      <word id="22" form="comitātum" lemma="" postag="" relation="" head=""/>
-      <word id="23" form="prīncipis" lemma="" postag="" relation="" head=""/>
-      <word id="24" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="16" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="multās" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="cīvitātēs" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="adiūvit" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="pecūniā" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="6" form="ut" lemma="" postag="" relation="" head=""/>
-      <word id="7" form="opera" lemma="" postag="" relation="" head=""/>
-      <word id="8" form="vel" lemma="" postag="" relation="" head=""/>
-      <word id="9" form="nova" lemma="" postag="" relation="" head=""/>
-      <word id="10" form="facerent" lemma="" postag="" relation="" head=""/>
-      <word id="11" form="vel" lemma="" postag="" relation="" head=""/>
-      <word id="12" form="vetera" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="restituerent" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="15" form="ita" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="ut" lemma="" postag="" relation="" head=""/>
-      <word id="17" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="18" form="magistrātūs" lemma="" postag="" relation="" head=""/>
-      <word id="19" form="adiuvāret" lemma="" postag="" relation="" head=""/>
-      <word id="20" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="21" form="senātōrēs" lemma="" postag="" relation="" head=""/>
-      <word id="22" form="ad" lemma="" postag="" relation="" head=""/>
-      <word id="23" form="fūnctiōnēs" lemma="" postag="" relation="" head=""/>
-      <word id="24" form="suās" lemma="" postag="" relation="" head=""/>
-      <word id="25" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="17" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="usque" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="adeō" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="sub" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="eō" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="nūllus" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="percussus" lemma="" postag="" relation="" head=""/>
-      <word id="7" form="est" lemma="" postag="" relation="" head=""/>
-      <word id="8" form="senātor" lemma="" postag="" relation="" head=""/>
-      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="10" form="ut" lemma="" postag="" relation="" head=""/>
-      <word id="11" form="etiam" lemma="" postag="" relation="" head=""/>
-      <word id="12" form="parricīda" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="cōnfessus" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="in" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="īnsulā" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="dēsertā" lemma="" postag="" relation="" head=""/>
-      <word id="17" form="pōnerētur" lemma="" postag="" relation="" head=""/>
-      <word id="18" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="19" form="quia" lemma="" postag="" relation="" head=""/>
-      <word id="20" form="vīvere" lemma="" postag="" relation="" head=""/>
-      <word id="21" form="illī" lemma="" postag="" relation="" head=""/>
-      <word id="22" form="nātūrae" lemma="" postag="" relation="" head=""/>
-      <word id="23" form="lēgibus" lemma="" postag="" relation="" head=""/>
-      <word id="24" form="nōn" lemma="" postag="" relation="" head=""/>
-      <word id="25" form="licēbat" lemma="" postag="" relation="" head=""/>
-      <word id="26" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="18" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="adversa" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="eius" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="temporibus" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="haec" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="prōvēnērunt" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="7" form="famēs" lemma="" postag="" relation="" head=""/>
-      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="9" form="dē" lemma="" postag="" relation="" head=""/>
-      <word id="10" form="quā" lemma="" postag="" relation="" head=""/>
-      <word id="11" form="dīximus" lemma="" postag="" relation="" head=""/>
-      <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="13" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="terrae" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="mōtus" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="17" form="quō" lemma="" postag="" relation="" head=""/>
-      <word id="18" form="Rhodiōrum" lemma="" postag="" relation="" head=""/>
-      <word id="19" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="20" form="Asiae" lemma="" postag="" relation="" head=""/>
-      <word id="21" form="oppida" lemma="" postag="" relation="" head=""/>
-      <word id="22" form="concidērunt" lemma="" postag="" relation="" head=""/>
-      <word id="23" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="24" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="25" form="Rōmae" lemma="" postag="" relation="" head=""/>
-      <word id="26" form="incendium" lemma="" postag="" relation="" head=""/>
-      <word id="27" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="19" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="tantum" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="sānē" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="auctōritātis" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="apud" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="exterās" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="gentēs" lemma="" postag="" relation="" head=""/>
-      <word id="7" form="nēmō" lemma="" postag="" relation="" head=""/>
-      <word id="8" form="habuit" lemma="" postag="" relation="" head=""/>
-      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="10" form="cum" lemma="" postag="" relation="" head=""/>
-      <word id="11" form="semper" lemma="" postag="" relation="" head=""/>
-      <word id="12" form="amāverit" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="pācem" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="eō" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="usque" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="ut" lemma="" postag="" relation="" head=""/>
-      <word id="17" form="Scīpiōnis" lemma="" postag="" relation="" head=""/>
-      <word id="18" form="sententiam" lemma="" postag="" relation="" head=""/>
-      <word id="19" form="frequentārit" lemma="" postag="" relation="" head=""/>
-      <word id="20" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="21" form="quā" lemma="" postag="" relation="" head=""/>
-      <word id="22" form="ille" lemma="" postag="" relation="" head=""/>
-      <word id="23" form="dīcēbat" lemma="" postag="" relation="" head=""/>
-      <word id="24" form="mālle" lemma="" postag="" relation="" head=""/>
-      <word id="25" form="sē" lemma="" postag="" relation="" head=""/>
-      <word id="26" form="ūnum" lemma="" postag="" relation="" head=""/>
-      <word id="27" form="cīvem" lemma="" postag="" relation="" head=""/>
-      <word id="28" form="servāre" lemma="" postag="" relation="" head=""/>
-      <word id="29" form="quam" lemma="" postag="" relation="" head=""/>
-      <word id="30" form="mīlle" lemma="" postag="" relation="" head=""/>
-      <word id="31" form="hostēs" lemma="" postag="" relation="" head=""/>
-      <word id="32" form="occīdēre" lemma="" postag="" relation="" head=""/>
-      <word id="33" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="20" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="Mēnsem" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="Septembrem" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="atque" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="Octōbrem" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="Antōnīnum" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="atque" lemma="" postag="" relation="" head=""/>
-      <word id="7" form="Faustīnum" lemma="" postag="" relation="" head=""/>
-      <word id="8" form="appellandōs" lemma="" postag="" relation="" head=""/>
-      <word id="9" form="esse" lemma="" postag="" relation="" head=""/>
-      <word id="10" form="dēcrēvit" lemma="" postag="" relation="" head=""/>
-      <word id="11" form="senātus" lemma="" postag="" relation="" head=""/>
-      <word id="12" form="sed" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="id" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="Antōnīnus" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="respuit" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="nisi" lemma="nisi" postag="c--------" relation="" head=""/>
+      <word id="11" form="quod" lemma="quod" postag="c--------" relation="" head=""/>
+      <word id="12" form="prius" lemma="prior" postag="a-s---nnc" relation="" head=""/>
+      <word id="13" form="ad" lemma="ad" postag="r--------" relation="" head=""/>
+      <word id="14" form="amīcōs" lemma="amicus" postag="n-p---ma-" relation="" head=""/>
+      <word id="15" form="rettulit" lemma="refero" postag="v3sria---" relation="" head=""/>
       <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="21" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml" subdoc="" span="">
-      <word id="1" form="cum" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="Alpīnum" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="cāseum" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="in" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="cēnā" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="ēdisset" lemma="" postag="" relation="" head=""/>
-      <word id="7" form="avidius" lemma="" postag="" relation="" head=""/>
+   <sentence id="11"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="Victus" lemma="victus2" postag="n-p---ma-" relation="" head=""/>
+      <word id="2" form="Antōnīnī" lemma="Antōnīnus" postag="n-s---mg-" relation="" head=""/>
+      <word id="3" form="Piī" lemma="Pius" postag="n-s---mg-" relation="" head="2"/>
+      <word id="4" form="tālis" lemma="talis" postag="a-p---ma-" relation="" head=""/>
+      <word id="5" form="fuit" lemma="sum1" postag="v3sria---" relation="" head=""/>
+      <word id="6" form="ut" lemma="ut" postag="c--------" relation="" head=""/>
+      <word id="7" form="esset" lemma="sum1" postag="v3sisa---" relation="" head=""/>
+      <word id="8" form="opulentiā" lemma="opulens" postag="a-p---nn-" relation="" head=""/>
+      <word id="9" form="sine" lemma="sine" postag="d--------" relation="" head=""/>
+      <word id="10" form="reprehēnsiōne" lemma="reprehensio" postag="n-s---fb-" relation="" head=""/>
+      <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="12" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="13" form="mēnsa" lemma="mensa" postag="n-s---fb-" relation="" head=""/>
+      <word id="14" form="eius" lemma="is" postag="p-s---mg-" relation="" head=""/>
+      <word id="15" form="per" lemma="per" postag="r--------" relation="" head=""/>
+      <word id="16" form="propriōs" lemma="proprius" postag="a-p---ma-" relation="" head=""/>
+      <word id="17" form="servōs" lemma="servus1" postag="a-p---ma-" relation="" head=""/>
+      <word id="18" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="19" form="per" lemma="per" postag="r--------" relation="" head=""/>
+      <word id="20" form="propriōs" lemma="proprius" postag="a-p---ma-" relation="" head=""/>
+      <word id="21" form="aucupēs" lemma="aucupo" postag="v2spsa---" relation="" head=""/>
+      <word id="22" form="piscātōrēs" lemma="piscator" postag="n-p---ma-" relation="" head=""/>
+      <word id="23" form="ac" lemma="atque" postag="c--------" relation="" head=""/>
+      <word id="24" form="vēnātōrēs" lemma="venator" postag="n-p---ma-" relation="" head=""/>
+      <word id="25" form="īnstruerētur" lemma="instruo" postag="v3sisp---" relation="" head=""/>
+      <word id="26" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="12"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="balneum" lemma="balnea" postag="n-p---ng-" relation="" head=""/>
+      <word id="2" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="3" form="quō" lemma="qui2" postag="p-s---nb-" relation="" head=""/>
+      <word id="4" form="ūsus" lemma="usus2" postag="n-p---ma-" relation="" head=""/>
+      <word id="5" form="erat" lemma="sum1" postag="v3siia---" relation="" head=""/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="sine" lemma="sine" postag="d--------" relation="" head=""/>
+      <word id="8" form="mercēde" lemma="merces1" postag="n-s---fb-" relation="" head=""/>
+      <word id="9" form="populō" lemma="populo" postag="v1spia---" relation="" head=""/>
+      <word id="10" form="exhibuit" lemma="exhibeo" postag="v3sria---" relation="" head=""/>
+      <word id="11" form="ne" lemma="ne1" postag="d--------" relation="" head=""/>
+      <word id="12" form="-c" lemma="-c" postag="c--------" relation="" head=""/>
+      <word id="13" form="omnīnō" lemma="omnino" postag="d--------" relation="" head=""/>
+      <word id="14" form="quicquam" lemma="quisquam" postag="p-s---nn-" relation="" head=""/>
+      <word id="15" form="dē" lemma="de" postag="r--------" relation="" head=""/>
+      <word id="16" form="vītae" lemma="vita" postag="n-p---fn-" relation="" head=""/>
+      <word id="17" form="prīvātae" lemma="privo" postag="v-prppfn-" relation="" head=""/>
+      <word id="18" form="quālitāte" lemma="qualitas" postag="n-s---fb-" relation="" head=""/>
+      <word id="19" form="mūtāvit" lemma="muto1" postag="v3sria---" relation="" head=""/>
+      <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="13"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="salāria" lemma="salarium" postag="n-p---nn-" relation="" head=""/>
+      <word id="2" form="multīs" lemma="multa" postag="n-p---nb-" relation="" head=""/>
+      <word id="3" form="subtrāxit" lemma="subtraho" postag="v3sria---" relation="" head=""/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="5" form="dīcēns" lemma="dico2" postag="v-spp-na-" relation="" head=""/>
+      <word id="6" form="nihil" lemma="nihil" postag="n-s---nn-" relation="" head=""/>
+      <word id="7" form="esse" lemma="sum1" postag="v--pna---" relation="" head=""/>
+      <word id="8" form="sordidius" lemma="sordidus" postag="a-------c" relation="" head=""/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="quam" lemma="quam" postag="c--------" relation="" head=""/>
+      <word id="11" form="sī" lemma="si" postag="c--------" relation="" head=""/>
+      <word id="12" form="rem" lemma="res" postag="n-s---fa-" relation="" head=""/>
+      <word id="13" form="pūblicam" lemma="publica" postag="n-s---fa-" relation="" head=""/>
+      <word id="14" form="is" lemma="eo1" postag="v2spia---" relation="" head=""/>
+      <word id="15" form="adrōderet" lemma="ad-rodo" postag="v3sisa---" relation="" head=""/>
+      <word id="16" form="quī" lemma="qui2" postag="p-s---mn-" relation="" head=""/>
+      <word id="17" form="nihil" lemma="nihil" postag="n-s---nn-" relation="" head=""/>
+      <word id="18" form="in" lemma="in" postag="r--------" relation="" head=""/>
+      <word id="19" form="eam" lemma="is" postag="a-s---fa_" relation="" head=""/>
+      <word id="20" form="suō" lemma="suo" postag="v1spia---" relation="" head=""/>
+      <word id="21" form="labōre" lemma="labor2" postag="n-s---mb-" relation="" head=""/>
+      <word id="22" form="cōnferret" lemma="confero" postag="v3si-a---" relation="" head=""/>
+      <word id="23" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="14"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="speciēs" lemma="species" postag="n-p---fa-" relation="" head=""/>
+      <word id="2" form="imperātōriās" lemma="imperatorius" postag="a-p---fa-" relation="" head=""/>
+      <word id="3" form="superfluās" lemma="superfluo1" postag="v2spsa---" relation="" head=""/>
+      <word id="4" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="5" form="praedia" lemma="praedium" postag="n-p---nn-" relation="" head=""/>
+      <word id="6" form="vēndidit" lemma="vendo" postag="v3sria---" relation="" head=""/>
+      <word id="7" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="8" form="in" lemma="in" postag="r--------" relation="" head=""/>
+      <word id="9" form="suīs" lemma="sua" postag="n-p---fb-" relation="" head=""/>
+      <word id="10" form="propriīs" lemma="proprium" postag="n-p---nb-" relation="" head=""/>
+      <word id="11" form="fundīs" lemma="funda" postag="n-p---fb-" relation="" head=""/>
+      <word id="12" form="vīxit" lemma="vivo" postag="v3sria---" relation="" head=""/>
+      <word id="13" form="variē" lemma="varius1" postag="a-s---nv-" relation="" head=""/>
+      <word id="14" form="ac" lemma="atque" postag="c--------" relation="" head=""/>
+      <word id="15" form="prō" lemma="pro1" postag="d--------" relation="" head=""/>
+      <word id="16" form="temporibus" lemma="tempus" postag="n-p---nb-" relation="" head=""/>
+      <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="15"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="ne" lemma="ne1" postag="d--------" relation="" head=""/>
+      <word id="2" form="-c" lemma="-c" postag="c--------" relation="" head=""/>
+      <word id="3" form="ūllās" lemma="ullus" postag="a-p---fa-" relation="" head=""/>
+      <word id="4" form="expedītiōnēs" lemma="expeditio" postag="n-p---fa-" relation="" head=""/>
+      <word id="5" form="obiit" lemma="obeo" postag="v3sria---" relation="" head=""/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="nisi" lemma="nisi" postag="c--------" relation="" head=""/>
+      <word id="8" form="quod" lemma="quod" postag="c--------" relation="" head=""/>
+      <word id="9" form="ad" lemma="ad" postag="r--------" relation="" head=""/>
+      <word id="10" form="agrōs" lemma="ager" postag="n-p---ma-" relation="" head=""/>
+      <word id="11" form="suōs" lemma="suus" postag="a-p---ma-" relation="" head=""/>
+      <word id="12" form="profectus" lemma="proficiscor" postag="v-srppmn-" relation="" head=""/>
+      <word id="13" form="est" lemma="sum1" postag="v3spia---" relation="" head=""/>
+      <word id="14" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="15" form="ad" lemma="ad" postag="r--------" relation="" head=""/>
+      <word id="16" form="Campāniam" lemma="Campānia" postag="n-s---fa-" relation="" head=""/>
+      <word id="17" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="18" form="dīcēns" lemma="dico2" postag="v-spp-na-" relation="" head=""/>
+      <word id="19" form="gravem" lemma="gravis" postag="a-s---ma-" relation="" head=""/>
+      <word id="20" form="esse" lemma="sum1" postag="v--pna---" relation="" head=""/>
+      <word id="21" form="prōvinciālibus" lemma="provincialis" postag="a-p---mb-" relation="" head=""/>
+      <word id="22" form="comitātum" lemma="comitas" postag="n-p---fg-" relation="" head=""/>
+      <word id="23" form="prīncipis" lemma="princeps" postag="n-s---mg-" relation="" head=""/>
+      <word id="24" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="16"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="multās" lemma="multa1" postag="n-p---fa-" relation="" head=""/>
+      <word id="2" form="cīvitātēs" lemma="civitas" postag="n-p---fa-" relation="" head=""/>
+      <word id="3" form="adiūvit" lemma="adjuvo" postag="v3sria---" relation="" head=""/>
+      <word id="4" form="pecūniā" lemma="pecunia" postag="n-s---fb-" relation="" head=""/>
+      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="6" form="ut" lemma="ut" postag="c--------" relation="" head=""/>
+      <word id="7" form="opera" lemma="opera" postag="n-s---fb-" relation="" head=""/>
+      <word id="8" form="vel" lemma="vel" postag="d--------" relation="" head=""/>
+      <word id="9" form="nova" lemma="novo" postag="v2spma---" relation="" head=""/>
+      <word id="10" form="facerent" lemma="facio" postag="v3pisa---" relation="" head=""/>
+      <word id="11" form="vel" lemma="vel" postag="d--------" relation="" head=""/>
+      <word id="12" form="vetera" lemma="vetera" postag="n-p---nn-" relation="" head=""/>
+      <word id="13" form="restituerent" lemma="restituo" postag="v3pisa---" relation="" head=""/>
+      <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="15" form="ita" lemma="ita" postag="d--------" relation="" head=""/>
+      <word id="16" form="ut" lemma="ut" postag="c--------" relation="" head=""/>
+      <word id="17" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="18" form="magistrātūs" lemma="magistratus" postag="n-p---ma-" relation="" head=""/>
+      <word id="19" form="adiuvāret" lemma="adjuvo" postag="v3sisa---" relation="" head=""/>
+      <word id="20" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="21" form="senātōrēs" lemma="senator" postag="n-p---ma-" relation="" head=""/>
+      <word id="22" form="ad" lemma="ad" postag="r--------" relation="" head=""/>
+      <word id="23" form="fūnctiōnēs" lemma="functio" postag="n-p---fa-" relation="" head=""/>
+      <word id="24" form="suās" lemma="sua" postag="n-p---fa-" relation="" head=""/>
+      <word id="25" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="17"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="usque" lemma="usque" postag="d--------" relation="" head=""/>
+      <word id="2" form="adeō" lemma="adeo1" postag="v1spia---" relation="" head=""/>
+      <word id="3" form="sub" lemma="sub" postag="r--------" relation="" head=""/>
+      <word id="4" form="eō" lemma="is" postag="a-s---mb_" relation="" head=""/>
+      <word id="5" form="nūllus" lemma="nullus" postag="a-s---mn-" relation="" head=""/>
+      <word id="6" form="percussus" lemma="percussus2" postag="n-p---ma-" relation="" head=""/>
+      <word id="7" form="est" lemma="sum1" postag="v3spia---" relation="" head=""/>
+      <word id="8" form="senātor" lemma="senator" postag="n-s---mn-" relation="" head=""/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="ut" lemma="ut" postag="c--------" relation="" head=""/>
+      <word id="11" form="etiam" lemma="etiam" postag="d-------_" relation="" head=""/>
+      <word id="12" form="parricīda" lemma="parricida" postag="n-s---mb-" relation="" head=""/>
+      <word id="13" form="cōnfessus" lemma="confiteor" postag="v-srppmn-" relation="" head=""/>
+      <word id="14" form="in" lemma="in" postag="r--------" relation="" head=""/>
+      <word id="15" form="īnsulā" lemma="insula1" postag="n-s---fb-" relation="" head=""/>
+      <word id="16" form="dēsertā" lemma="desero2" postag="v-prppnn-" relation="" head=""/>
+      <word id="17" form="pōnerētur" lemma="pono" postag="v3sisp---" relation="" head=""/>
+      <word id="18" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="19" form="quia" lemma="quia" postag="c--------" relation="" head=""/>
+      <word id="20" form="vīvere" lemma="vivo" postag="v2sfip---" relation="" head=""/>
+      <word id="21" form="illī" lemma="ille" postag="p-s---md-" relation="" head=""/>
+      <word id="22" form="nātūrae" lemma="natura" postag="n-p---fn-" relation="" head=""/>
+      <word id="23" form="lēgibus" lemma="lex" postag="n-p---fb-" relation="" head=""/>
+      <word id="24" form="nōn" lemma="non" postag="d--------" relation="" head=""/>
+      <word id="25" form="licēbat" lemma="liceo1" postag="v3siia---" relation="" head=""/>
+      <word id="26" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="18"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="adversa" lemma="adverro" postag="v-prppnn-" relation="" head=""/>
+      <word id="2" form="eius" lemma="is" postag="p-s---mg-" relation="" head=""/>
+      <word id="3" form="temporibus" lemma="tempus" postag="n-p---nb-" relation="" head=""/>
+      <word id="4" form="haec" lemma="hic" postag="a-s---fn_" relation="" head=""/>
+      <word id="5" form="prōvēnērunt" lemma="provenio" postag="v3pria---" relation="" head=""/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="famēs" lemma="fames" postag="n-p---fa-" relation="" head=""/>
       <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="9" form="nocte" lemma="" postag="" relation="" head=""/>
-      <word id="10" form="reiectāvit" lemma="" postag="" relation="" head=""/>
-      <word id="11" form="atque" lemma="" postag="" relation="" head=""/>
-      <word id="12" form="aliā" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="diē" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="febre" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="commōtus" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="est" lemma="" postag="" relation="" head=""/>
-      <word id="17" form="atque" lemma="" postag="" relation="" head=""/>
-      <word id="18" form="tertiā" lemma="" postag="" relation="" head=""/>
-      <word id="19" form="diē" lemma="" postag="" relation="" head=""/>
-      <word id="20" form="Mārcō" lemma="" postag="" relation="" head=""/>
-      <word id="21" form="Antōnīnō" lemma="" postag="" relation="" head=""/>
-      <word id="22" form="rem" lemma="" postag="" relation="" head=""/>
-      <word id="23" form="pūblicam" lemma="" postag="" relation="" head=""/>
-      <word id="24" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="25" form="fīliam" lemma="" postag="" relation="" head=""/>
-      <word id="26" form="commendāvit" lemma="" postag="" relation="" head=""/>
-      <word id="27" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="28" form="ita" lemma="" postag="" relation="" head=""/>
-      <word id="29" form="conversus" lemma="" postag="" relation="" head=""/>
-      <word id="30" form="quasi" lemma="" postag="" relation="" head=""/>
-      <word id="31" form="dormīret" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="dē" lemma="de" postag="r--------" relation="" head=""/>
+      <word id="10" form="quā" lemma="qui2" postag="p-s---fb-" relation="" head=""/>
+      <word id="11" form="dīximus" lemma="dico2" postag="v1pria---" relation="" head=""/>
+      <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="13" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="14" form="terrae" lemma="terra" postag="n-p---fn-" relation="" head=""/>
+      <word id="15" form="mōtus" lemma="motus2" postag="n-p---ma-" relation="" head=""/>
+      <word id="16" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="17" form="quō" lemma="qui2" postag="p-s---nb-" relation="" head=""/>
+      <word id="18" form="Rhodiōrum" lemma="Rhodius" postag="n-p---mg-" relation="" head=""/>
+      <word id="19" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="20" form="Asiae" lemma="Asia" postag="n-s---fg-" relation="" head=""/>
+      <word id="21" form="oppida" lemma="oppidum" postag="n-p---nn-" relation="" head=""/>
+      <word id="22" form="concidērunt" lemma="concido1" postag="v3pria---" relation="" head=""/>
+      <word id="23" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="24" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="25" form="Rōmae" lemma="Rōma" postag="n-s---fl-" relation="" head=""/>
+      <word id="26" form="incendium" lemma="incendium" postag="n-p---ng-" relation="" head=""/>
+      <word id="27" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="19"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="tantum" lemma="tantus" postag="a-p---ng-" relation="" head=""/>
+      <word id="2" form="sānē" lemma="sānē" postag="d-------_" relation="" head=""/>
+      <word id="3" form="auctōritātis" lemma="auctoritas" postag="n-s---fg-" relation="" head=""/>
+      <word id="4" form="apud" lemma="apud" postag="r--------" relation="" head=""/>
+      <word id="5" form="exterās" lemma="exter" postag="a-p---fa-" relation="" head=""/>
+      <word id="6" form="gentēs" lemma="gens" postag="n-p---fa-" relation="" head=""/>
+      <word id="7" form="nēmō" lemma="nemo" postag="n-s---mn-" relation="" head=""/>
+      <word id="8" form="habuit" lemma="habeo" postag="v3sria---" relation="" head=""/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="cum" lemma="cum" postag="c--------" relation="" head=""/>
+      <word id="11" form="semper" lemma="semper" postag="d--------" relation="" head=""/>
+      <word id="12" form="amāverit" lemma="amo" postag="v3stia---" relation="" head=""/>
+      <word id="13" form="pācem" lemma="paco2" postag="v1spsa---" relation="" head=""/>
+      <word id="14" form="eō" lemma="is" postag="a-s---mb_" relation="" head=""/>
+      <word id="15" form="usque" lemma="usque" postag="d--------" relation="" head=""/>
+      <word id="16" form="ut" lemma="ut" postag="c--------" relation="" head=""/>
+      <word id="17" form="Scīpiōnis" lemma="Scīpiō" postag="n-s---mg-" relation="" head=""/>
+      <word id="18" form="sententiam" lemma="sententia" postag="n-s---fa-" relation="" head=""/>
+      <word id="19" form="frequentārit" lemma="frequento" postag="v3srsa---" relation="" head=""/>
+      <word id="20" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="21" form="quā" lemma="qui2" postag="p-s---fb-" relation="" head=""/>
+      <word id="22" form="ille" lemma="ille" postag="p-s---mn-" relation="" head=""/>
+      <word id="23" form="dīcēbat" lemma="dico2" postag="v3siia---" relation="" head=""/>
+      <word id="24" form="mālle" lemma="mallon" postag="n-s---nv-" relation="" head=""/>
+      <word id="25" form="sē" lemma="sui" postag="p-s---ma-" relation="" head=""/>
+      <word id="26" form="ūnum" lemma="unus" postag="a-p---mg-" relation="" head=""/>
+      <word id="27" form="cīvem" lemma="civis" postag="n-s---ma-" relation="" head=""/>
+      <word id="28" form="servāre" lemma="servo" postag="v2spmp---" relation="" head=""/>
+      <word id="29" form="quam" lemma="quam" postag="c--------" relation="" head=""/>
+      <word id="30" form="mīlle" lemma="mille" postag="m-p---mn-" relation="" head=""/>
+      <word id="31" form="hostēs" lemma="hostis" postag="n-p---ma-" relation="" head=""/>
+      <word id="32" form="occīdēre" lemma="occaedes" postag="v2sfip---" relation="" head=""/>
+      <word id="33" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="20"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="Mēnsem" lemma="mensis" postag="n-s---ma-" relation="" head=""/>
+      <word id="2" form="Septembrem" lemma="September" postag="a-s---ma_" relation="" head=""/>
+      <word id="3" form="atque" lemma="atque" postag="c--------" relation="" head=""/>
+      <word id="4" form="Octōbrem" lemma="Octōber" postag="a-s---ma_" relation="" head=""/>
+      <word id="5" form="Antōnīnum" lemma="Antōnīnus" postag="a-s---ma_" relation="" head=""/>
+      <word id="6" form="atque" lemma="atque" postag="c--------" relation="" head=""/>
+      <word id="7" form="Faustīnum" lemma="Faustīnus" postag="a-s---ma_" relation="" head=""/>
+      <word id="8" form="appellandōs" lemma="appello" postag="v-p-g-ma-" relation="" head=""/>
+      <word id="9" form="esse" lemma="sum1" postag="v--pna---" relation="" head=""/>
+      <word id="10" form="dēcrēvit" lemma="decerno" postag="v3sria---" relation="" head=""/>
+      <word id="11" form="senātus" lemma="senatus" postag="n-p---ma-" relation="" head=""/>
+      <word id="12" form="sed" lemma="sed" postag="c--------" relation="" head=""/>
+      <word id="13" form="id" lemma="is" postag="a-s---na_" relation="" head=""/>
+      <word id="14" form="Antōnīnus" lemma="Antōnīnus" postag="n-s---mn-" relation="" head=""/>
+      <word id="15" form="respuit" lemma="respuo" postag="v3spia---" relation="" head=""/>
+      <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="21"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_301_Fall_2017/homework-3.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="cum" lemma="cum" postag="c--------" relation="" head=""/>
+      <word id="2" form="Alpīnum" lemma="Alpīnus" postag="a-s---ma_" relation="" head=""/>
+      <word id="3" form="cāseum" lemma="caseum" postag="n-p---ng-" relation="" head=""/>
+      <word id="4" form="in" lemma="in" postag="r--------" relation="" head=""/>
+      <word id="5" form="cēnā" lemma="cena" postag="n-s---fb-" relation="" head=""/>
+      <word id="6" form="ēdisset" lemma="edo1" postag="v3slsa---" relation="" head=""/>
+      <word id="7" form="avidius" lemma="avidus" postag="a-------c" relation="" head=""/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="nocte" lemma="nox" postag="n-s---fb-" relation="" head=""/>
+      <word id="10" form="reiectāvit" lemma="rejecto" postag="v3sria---" relation="" head=""/>
+      <word id="11" form="atque" lemma="atque" postag="c--------" relation="" head=""/>
+      <word id="12" form="aliā" lemma="alia" postag="d--------" relation="" head=""/>
+      <word id="13" form="diē" lemma="dies" postag="n-s---fb-" relation="" head=""/>
+      <word id="14" form="febre" lemma="febris" postag="n-s---fb-" relation="" head=""/>
+      <word id="15" form="commōtus" lemma="commotus2" postag="n-p---ma-" relation="" head=""/>
+      <word id="16" form="est" lemma="sum1" postag="v3spia---" relation="" head=""/>
+      <word id="17" form="atque" lemma="atque" postag="c--------" relation="" head=""/>
+      <word id="18" form="tertiā" lemma="tertio2" postag="v2spma---" relation="" head=""/>
+      <word id="19" form="diē" lemma="dies" postag="n-s---fb-" relation="" head=""/>
+      <word id="20" form="Mārcō" lemma="Mārcus" postag="n-s---md-" relation="" head="21"/>
+      <word id="21" form="Antōnīnō" lemma="Antōnīnus" postag="n-s---md-" relation="" head=""/>
+      <word id="22" form="rem" lemma="res" postag="n-s---fa-" relation="" head=""/>
+      <word id="23" form="pūblicam" lemma="publica" postag="n-s---fa-" relation="" head=""/>
+      <word id="24" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="25" form="fīliam" lemma="filia" postag="n-s---fa-" relation="" head=""/>
+      <word id="26" form="commendāvit" lemma="commendo" postag="v3sria---" relation="" head=""/>
+      <word id="27" form="et" lemma="et" postag="c--------" relation="" head=""/>
+      <word id="28" form="ita" lemma="ita" postag="d--------" relation="" head=""/>
+      <word id="29" form="conversus" lemma="converro" postag="v-srppmn-" relation="" head=""/>
+      <word id="30" form="quasi" lemma="quasi" postag="d--------" relation="" head=""/>
+      <word id="31" form="dormīret" lemma="dormio" postag="v3sisa---" relation="" head=""/>
       <word id="32" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="33" form="spīritum" lemma="" postag="" relation="" head=""/>
-      <word id="34" form="reddidit" lemma="" postag="" relation="" head=""/>
-      <word id="35" form="apud" lemma="" postag="" relation="" head=""/>
-      <word id="36" form="Lōrium" lemma="" postag="" relation="" head=""/>
+      <word id="33" form="spīritum" lemma="spiritus" postag="n-s---ma-" relation="" head=""/>
+      <word id="34" form="reddidit" lemma="reddo" postag="v3sria---" relation="" head=""/>
+      <word id="35" form="apud" lemma="apud" postag="r--------" relation="" head=""/>
+      <word id="36" form="Lōrium" lemma="Lōrium" postag="n-s---na-" relation="" head=""/>
       <word id="37" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
 </treebank>
-
