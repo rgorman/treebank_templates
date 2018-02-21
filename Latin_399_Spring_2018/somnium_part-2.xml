@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="lat"
+          format="midlat"
+          direction="ltr"
+          version="1.5">
+   <date>2018-02-21 15:31:55 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+  </annotator>
+   <annotator>
+      <short>Bob Gorman</short>
+      <name>Robert Gorman</name>
+      <address>rgorman1@unl.edu</address>
+      <uri>http://data.perseus.org/sosol/users/Bob%20Gorman</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Novem" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="tibi" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="orbibus" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="vel" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="potius" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="globis" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="conexa" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="sunt" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="omnia" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="11" form="quorum" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="unus" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="est" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="caelestis" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="16" form="extumus" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="18" form="qui" lemma="" postag="" relation="" head=""/>
+      <word id="19" form="reliquos" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="omnes" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="complectitur" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="23" form="summus" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="ipse" lemma="" postag="" relation="" head=""/>
+      <word id="25" form="deus" lemma="" postag="" relation="" head=""/>
+      <word id="26" form="arcens" lemma="" postag="" relation="" head=""/>
+      <word id="27" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="28" form="continens" lemma="" postag="" relation="" head=""/>
+      <word id="29" form="ceteros" lemma="" postag="" relation="" head=""/>
+      <word id="30" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="2"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="in" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="quo" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="sunt" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="infixi" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="illi" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="qui" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="volvuntur" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="stellarum" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="cursus" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="sempiterni" lemma="" postag="" relation="" head=""/>
+      <word id="13" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="3"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="cui" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="subiecti" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="sunt" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="septem" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="6" form="qui" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="versantur" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="retro" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="contrario" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="motu" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="atque" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="caelum" lemma="" postag="" relation="" head=""/>
+      <word id="13" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="4"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="ex" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="quibus" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="unum" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="globum" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="possidet" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="illa" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="quam" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="in" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="terris" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="Saturniam" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="nominant" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="5"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Deinde" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="est" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="hominum" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="generi" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="prosperus" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="salutaris" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="ille" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="fulgor" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="11" form="qui" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="dicitur" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="Iovis" lemma="" postag="" relation="" head=""/>
+      <word id="14" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="6"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="tum" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="rutilus" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="horribilis" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="-que" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="terris" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="quem" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="Martium" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="dicitis" lemma="" postag="" relation="" head=""/>
+      <word id="10" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="7"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="deinde" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="subter" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="mediam" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="fere" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="regionem" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="sol" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="obtinet" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="dux" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="princeps" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="moderator" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="luminum" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="reliquorum" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="17" form="mens" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="mundi" lemma="" postag="" relation="" head=""/>
+      <word id="19" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="temperatio" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="22" form="tanta" lemma="" postag="" relation="" head=""/>
+      <word id="23" form="magnitudine" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="25" form="ut" lemma="" postag="" relation="" head=""/>
+      <word id="26" form="cuncta" lemma="" postag="" relation="" head=""/>
+      <word id="27" form="sua" lemma="" postag="" relation="" head=""/>
+      <word id="28" form="luce" lemma="" postag="" relation="" head=""/>
+      <word id="29" form="lustret" lemma="" postag="" relation="" head=""/>
+      <word id="30" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="31" form="compleat" lemma="" postag="" relation="" head=""/>
+      <word id="32" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="8"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Hunc" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="ut" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="comites" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="consequuntur" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="Veneris" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="alter" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="alter" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="Mercurii" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="cursus" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="12" form="in" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="infimo" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="-que" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="orbe" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="luna" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="radiis" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="solis" lemma="" postag="" relation="" head=""/>
+      <word id="19" form="accensa" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="convertitur" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="9"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Infra" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="autem" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="iam" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="nihil" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="est" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="ni" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="-si" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="mortale" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="caducum" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="praeter" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="animos" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="munere" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="deorum" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="hominum" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="generi" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="datos" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="19" form="supra" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="lunam" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="sunt" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="aeterna" lemma="" postag="" relation="" head=""/>
+      <word id="23" form="omnia" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="10"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Nam" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="ea" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="4" form="quae" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="est" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="media" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="nona" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="tellus" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="12" form="ne" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="-que" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="movetur" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="infima" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="est" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="19" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="in" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="eam" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="feruntur" lemma="" postag="" relation="" head=""/>
+      <word id="23" form="omnia" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="nutu" lemma="" postag="" relation="" head=""/>
+      <word id="25" form="suo" lemma="" postag="" relation="" head=""/>
+      <word id="26" form="pondera" lemma="" postag="" relation="" head=""/>
+      <word id="27" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="11"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Quae" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="cum" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="intuerer" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="stupens" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="6" form="ut" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="me" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="recepi" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="Quid" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="12" form="hic" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="14" form="inquam" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="16" form="quis" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="est" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="19" form="qui" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="conplet" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="aures" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="meas" lemma="" postag="" relation="" head=""/>
+      <word id="23" form="tantus" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="25" form="tam" lemma="" postag="" relation="" head=""/>
+      <word id="26" form="dulcis" lemma="" postag="" relation="" head=""/>
+      <word id="27" form="sonus" lemma="" postag="" relation="" head=""/>
+      <word id="28" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="12"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Hic" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="est" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="4" form="inquit" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="6" form="ille" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="qui" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="intervallis" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="disiunctus" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="inparibus" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="13" form="sed" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="tamen" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="pro" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="rata" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="parte" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="ratione" lemma="" postag="" relation="" head=""/>
+      <word id="19" form="distinctis" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="inpulsu" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="motu" lemma="" postag="" relation="" head=""/>
+      <word id="23" form="ipsorum" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="orbium" lemma="" postag="" relation="" head=""/>
+      <word id="25" form="efficitur" lemma="" postag="" relation="" head=""/>
+      <word id="26" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="27" form="acuta" lemma="" postag="" relation="" head=""/>
+      <word id="28" form="cum" lemma="" postag="" relation="" head=""/>
+      <word id="29" form="gravibus" lemma="" postag="" relation="" head=""/>
+      <word id="30" form="temperans" lemma="" postag="" relation="" head=""/>
+      <word id="31" form="varios" lemma="" postag="" relation="" head=""/>
+      <word id="32" form="aequabiliter" lemma="" postag="" relation="" head=""/>
+      <word id="33" form="concentus" lemma="" postag="" relation="" head=""/>
+      <word id="34" form="efficit" lemma="" postag="" relation="" head=""/>
+      <word id="35" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="13"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="ne" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="-c" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="enim" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="silentio" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="tanti" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="motus" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="incitari" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="possunt" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="natura" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="fert" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="14" form="ut" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="extrema" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="ex" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="altera" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="parte" lemma="" postag="" relation="" head=""/>
+      <word id="19" form="graviter" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="21" form="ex" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="altera" lemma="" postag="" relation="" head=""/>
+      <word id="23" form="autem" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="acute" lemma="" postag="" relation="" head=""/>
+      <word id="25" form="sonent" lemma="" postag="" relation="" head=""/>
+      <word id="26" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="14"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Quam" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="ob" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="causam" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="summus" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="ille" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="caeli" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="stellifer" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="cursus" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="cuius" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="conversio" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="est" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="concitatior" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="15" form="acuto" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="excitato" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="movetur" lemma="" postag="" relation="" head=""/>
+      <word id="19" form="sono" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="21" form="gravissimo" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="autem" lemma="" postag="" relation="" head=""/>
+      <word id="23" form="hic" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="lunaris" lemma="" postag="" relation="" head=""/>
+      <word id="25" form="atque" lemma="" postag="" relation="" head=""/>
+      <word id="26" form="infimus" lemma="" postag="" relation="" head=""/>
+      <word id="27" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="15"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="nam" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="terra" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="nona" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="inmobilis" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="manens" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="una" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="sede" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="semper" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="haeret" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="complexa" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="medium" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="mundi" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="locum" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="16"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Illi" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="autem" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="octo" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="cursus" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="6" form="in" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="quibus" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="eadem" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="vis" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="est" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="duorum" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="13" form="septem" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="efficiunt" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="distinctos" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="intervallis" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="sonos" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="19" form="qui" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="numerus" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="rerum" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="omnium" lemma="" postag="" relation="" head=""/>
+      <word id="23" form="fere" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="nodus" lemma="" postag="" relation="" head=""/>
+      <word id="25" form="est" lemma="" postag="" relation="" head=""/>
+      <word id="26" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="17"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="quod" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="docti" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="homines" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="nervis" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="imitati" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="atque" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="cantibus" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="aperuerunt" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="sibi" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="reditum" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="in" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="hunc" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="locum" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="15" form="sicut" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="alii" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="18" form="qui" lemma="" postag="" relation="" head=""/>
+      <word id="19" form="praestantibus" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="ingeniis" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="in" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="vita" lemma="" postag="" relation="" head=""/>
+      <word id="23" form="humana" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="divina" lemma="" postag="" relation="" head=""/>
+      <word id="25" form="studia" lemma="" postag="" relation="" head=""/>
+      <word id="26" form="coluerunt" lemma="" postag="" relation="" head=""/>
+      <word id="27" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="18"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Hoc" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="sonitu" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="oppletae" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="aures" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="hominum" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="obsurduerunt" lemma="" postag="" relation="" head=""/>
+      <word id="7" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="19"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="ne" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="-c" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="est" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="ullus" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="hebetior" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="sensus" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="in" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="vobis" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="sicut" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="12" form="ubi" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="Nilus" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="ad" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="illa" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="17" form="quae" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="Catadupa" lemma="" postag="" relation="" head=""/>
+      <word id="19" form="nominantur" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="21" form="praecipitat" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="ex" lemma="" postag="" relation="" head=""/>
+      <word id="23" form="altissimis" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="montibus" lemma="" postag="" relation="" head=""/>
+      <word id="25" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="26" form="ea" lemma="" postag="" relation="" head=""/>
+      <word id="27" form="gens" lemma="" postag="" relation="" head=""/>
+      <word id="28" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="29" form="quae" lemma="" postag="" relation="" head=""/>
+      <word id="30" form="illum" lemma="" postag="" relation="" head=""/>
+      <word id="31" form="locum" lemma="" postag="" relation="" head=""/>
+      <word id="32" form="adcolit" lemma="" postag="" relation="" head=""/>
+      <word id="33" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="34" form="propter" lemma="" postag="" relation="" head=""/>
+      <word id="35" form="magnitudinem" lemma="" postag="" relation="" head=""/>
+      <word id="36" form="sonitus" lemma="" postag="" relation="" head=""/>
+      <word id="37" form="sensu" lemma="" postag="" relation="" head=""/>
+      <word id="38" form="audiendi" lemma="" postag="" relation="" head=""/>
+      <word id="39" form="caret" lemma="" postag="" relation="" head=""/>
+      <word id="40" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="20"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Hic" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="vero" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="tantus" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="est" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="totius" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="mundi" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="incitatissima" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="conversione" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="sonitus" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="11" form="ut" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="eum" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="aures" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="hominum" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="capere" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="non" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="possint" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="19" form="sicut" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="intueri" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="solem" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="adversum" lemma="" postag="" relation="" head=""/>
+      <word id="23" form="nequitis" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="25" form="eius" lemma="" postag="" relation="" head=""/>
+      <word id="26" form="-que" lemma="" postag="" relation="" head=""/>
+      <word id="27" form="radiis" lemma="" postag="" relation="" head=""/>
+      <word id="28" form="acies" lemma="" postag="" relation="" head=""/>
+      <word id="29" form="vestra" lemma="" postag="" relation="" head=""/>
+      <word id="30" form="sensus" lemma="" postag="" relation="" head=""/>
+      <word id="31" form="-que" lemma="" postag="" relation="" head=""/>
+      <word id="32" form="vincitur" lemma="" postag="" relation="" head=""/>
+      <word id="33" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="21"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Haec" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="ego" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="admirans" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="referebam" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="tamen" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="oculos" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="ad" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="terram" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="identidem" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="22"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Tum" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="Africanus" lemma="" postag="" relation="" head=""/>
+      <word id="3" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="4" form="Sentio" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="6" form="inquit" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="te" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="sedem" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="etiam" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="nunc" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="hominum" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="ac" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="domum" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="contemplari" lemma="" postag="" relation="" head=""/>
+      <word id="16" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="23"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="quae" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="si" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="tibi" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="parva" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="6" form="ut" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="est" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="ita" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="videtur" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="12" form="haec" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="caelestia" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="semper" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="spectato" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="17" form="illa" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="humana" lemma="" postag="" relation="" head=""/>
+      <word id="19" form="contemnito" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="24"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Tu" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="enim" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="quam" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="celebritatem" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="sermonis" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="hominum" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="aut" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="quam" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="expetendam" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="consequi" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="gloriam" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="potes" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="25"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Vides" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="habitari" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="in" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="terra" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="raris" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="angustis" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="in" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="locis" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="in" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="ipsis" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="quasi" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="maculis" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="16" form="ubi" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="habitatur" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="19" form="vastas" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="solitudines" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="interiectas" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="23" form="eos" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="-que" lemma="" postag="" relation="" head=""/>
+      <word id="25" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="26" form="qui" lemma="" postag="" relation="" head=""/>
+      <word id="27" form="incolunt" lemma="" postag="" relation="" head=""/>
+      <word id="28" form="terram" lemma="" postag="" relation="" head=""/>
+      <word id="29" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="30" form="non" lemma="" postag="" relation="" head=""/>
+      <word id="31" form="modo" lemma="" postag="" relation="" head=""/>
+      <word id="32" form="interruptos" lemma="" postag="" relation="" head=""/>
+      <word id="33" form="ita" lemma="" postag="" relation="" head=""/>
+      <word id="34" form="esse" lemma="" postag="" relation="" head=""/>
+      <word id="35" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="36" form="ut" lemma="" postag="" relation="" head=""/>
+      <word id="37" form="nihil" lemma="" postag="" relation="" head=""/>
+      <word id="38" form="inter" lemma="" postag="" relation="" head=""/>
+      <word id="39" form="ipsos" lemma="" postag="" relation="" head=""/>
+      <word id="40" form="ab" lemma="" postag="" relation="" head=""/>
+      <word id="41" form="aliis" lemma="" postag="" relation="" head=""/>
+      <word id="42" form="ad" lemma="" postag="" relation="" head=""/>
+      <word id="43" form="alios" lemma="" postag="" relation="" head=""/>
+      <word id="44" form="manare" lemma="" postag="" relation="" head=""/>
+      <word id="45" form="possit" lemma="" postag="" relation="" head=""/>
+      <word id="46" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="47" form="sed" lemma="" postag="" relation="" head=""/>
+      <word id="48" form="partim" lemma="" postag="" relation="" head=""/>
+      <word id="49" form="obliquos" lemma="" postag="" relation="" head=""/>
+      <word id="50" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="51" form="partim" lemma="" postag="" relation="" head=""/>
+      <word id="52" form="transversos" lemma="" postag="" relation="" head=""/>
+      <word id="53" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="54" form="partim" lemma="" postag="" relation="" head=""/>
+      <word id="55" form="etiam" lemma="" postag="" relation="" head=""/>
+      <word id="56" form="adversos" lemma="" postag="" relation="" head=""/>
+      <word id="57" form="stare" lemma="" postag="" relation="" head=""/>
+      <word id="58" form="vobis" lemma="" postag="" relation="" head=""/>
+      <word id="59" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="26"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="a" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="quibus" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="expectare" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="gloriam" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="certe" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="nullam" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="potestis" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="27"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Cernis" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="autem" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="eandem" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="terram" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="quasi" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="quibusdam" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="redimitam" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="circumdatam" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="cingulis" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="12" form="e" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="quibus" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="duos" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="maxime" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="inter" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="se" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="diversos" lemma="" postag="" relation="" head=""/>
+      <word id="19" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="caeli" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="verticibus" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="ipsis" lemma="" postag="" relation="" head=""/>
+      <word id="23" form="ex" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="utraque" lemma="" postag="" relation="" head=""/>
+      <word id="25" form="parte" lemma="" postag="" relation="" head=""/>
+      <word id="26" form="subnixos" lemma="" postag="" relation="" head=""/>
+      <word id="27" form="obriguisse" lemma="" postag="" relation="" head=""/>
+      <word id="28" form="pruina" lemma="" postag="" relation="" head=""/>
+      <word id="29" form="vides" lemma="" postag="" relation="" head=""/>
+      <word id="30" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="31" form="medium" lemma="" postag="" relation="" head=""/>
+      <word id="32" form="autem" lemma="" postag="" relation="" head=""/>
+      <word id="33" form="illum" lemma="" postag="" relation="" head=""/>
+      <word id="34" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="35" form="maximum" lemma="" postag="" relation="" head=""/>
+      <word id="36" form="solis" lemma="" postag="" relation="" head=""/>
+      <word id="37" form="ardore" lemma="" postag="" relation="" head=""/>
+      <word id="38" form="torreri" lemma="" postag="" relation="" head=""/>
+      <word id="39" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="28"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Duo" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="sunt" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="habitabiles" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="5" form="quorum" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="australis" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="ille" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="in" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="quo" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="qui" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="insistunt" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="14" form="adversa" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="vobis" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="urgent" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="vestigia" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="19" form="nihil" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="ad" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="vestrum" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="genus" lemma="" postag="" relation="" head=""/>
+      <word id="23" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="29"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="hic" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="autem" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="alter" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="subiectus" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="aquiloni" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="quem" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="incolitis" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="cerne" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="quam" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="tenui" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="vos" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="parte" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="contingat" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="30"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Omnis" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="enim" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="terra" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="5" form="quae" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="colitur" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="a" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="vobis" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="angustata" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="verticibus" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="13" form="lateribus" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="latior" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="16" form="parva" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="quaedam" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="insula" lemma="" postag="" relation="" head=""/>
+      <word id="19" form="est" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="circumfusa" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="illo" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="mari" lemma="" postag="" relation="" head=""/>
+      <word id="23" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="24" form="quod" lemma="" postag="" relation="" head=""/>
+      <word id="25" form="Atlanticum" lemma="" postag="" relation="" head=""/>
+      <word id="26" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="27" form="quod" lemma="" postag="" relation="" head=""/>
+      <word id="28" form="magnum" lemma="" postag="" relation="" head=""/>
+      <word id="29" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="30" form="quem" lemma="" postag="" relation="" head=""/>
+      <word id="31" form="Oceanum" lemma="" postag="" relation="" head=""/>
+      <word id="32" form="appellatis" lemma="" postag="" relation="" head=""/>
+      <word id="33" form="in" lemma="" postag="" relation="" head=""/>
+      <word id="34" form="terris" lemma="" postag="" relation="" head=""/>
+      <word id="35" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="36" form="qui" lemma="" postag="" relation="" head=""/>
+      <word id="37" form="tamen" lemma="" postag="" relation="" head=""/>
+      <word id="38" form="tanto" lemma="" postag="" relation="" head=""/>
+      <word id="39" form="nomine" lemma="" postag="" relation="" head=""/>
+      <word id="40" form="quam" lemma="" postag="" relation="" head=""/>
+      <word id="41" form="sit" lemma="" postag="" relation="" head=""/>
+      <word id="42" form="parvus" lemma="" postag="" relation="" head=""/>
+      <word id="43" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="44" form="vides" lemma="" postag="" relation="" head=""/>
+      <word id="45" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="31"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Ex" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="his" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="ipsis" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="cultis" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="notis" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="-que" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="terris" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="num" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="aut" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="tuum" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="aut" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="cuiusquam" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="nostrum" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="nomen" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="vel" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="Caucasum" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="hunc" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="19" form="quem" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="cernis" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="22" form="transcendere" lemma="" postag="" relation="" head=""/>
+      <word id="23" form="potuit" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="vel" lemma="" postag="" relation="" head=""/>
+      <word id="25" form="illum" lemma="" postag="" relation="" head=""/>
+      <word id="26" form="Gangen" lemma="" postag="" relation="" head=""/>
+      <word id="27" form="tranatare" lemma="" postag="" relation="" head=""/>
+      <word id="28" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="32"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Quis" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="in" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="reliquis" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="orientis" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="aut" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="obeuntis" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="solis" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="ultimis" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="aut" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="aquilonis" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="austri" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="-ve" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="partibus" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="tuum" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="nomen" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="audiet" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="33"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="quibus" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="amputatis" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="cernis" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="profecto" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="quantis" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="in" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="angustiis" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="vestra" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="se" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="gloria" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="dilatari" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="velit" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="34"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Ipsi" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="autem" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="4" form="qui" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="de" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="nobis" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="loquuntur" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="quam" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="loquentur" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="diu" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="35"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Quin" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="etiam" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="si" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="cupiat" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="proles" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="illa" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="futurorum" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="hominum" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="deinceps" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="laudes" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="unius" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="cuiusque" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="nostrum" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="a" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="patribus" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="acceptas" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="posteris" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="prodere" lemma="" postag="" relation="" head=""/>
+      <word id="19" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="20" form="tamen" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="propter" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="eluviones" lemma="" postag="" relation="" head=""/>
+      <word id="23" form="exustiones" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="-que" lemma="" postag="" relation="" head=""/>
+      <word id="25" form="terrarum" lemma="" postag="" relation="" head=""/>
+      <word id="26" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="27" form="quas" lemma="" postag="" relation="" head=""/>
+      <word id="28" form="accidere" lemma="" postag="" relation="" head=""/>
+      <word id="29" form="tempore" lemma="" postag="" relation="" head=""/>
+      <word id="30" form="certo" lemma="" postag="" relation="" head=""/>
+      <word id="31" form="necesse" lemma="" postag="" relation="" head=""/>
+      <word id="32" form="est" lemma="" postag="" relation="" head=""/>
+      <word id="33" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="34" form="non" lemma="" postag="" relation="" head=""/>
+      <word id="35" form="modo" lemma="" postag="" relation="" head=""/>
+      <word id="36" form="non" lemma="" postag="" relation="" head=""/>
+      <word id="37" form="aeternam" lemma="" postag="" relation="" head=""/>
+      <word id="38" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="39" form="sed" lemma="" postag="" relation="" head=""/>
+      <word id="40" form="ne" lemma="" postag="" relation="" head=""/>
+      <word id="41" form="diuturnam" lemma="" postag="" relation="" head=""/>
+      <word id="42" form="quidem" lemma="" postag="" relation="" head=""/>
+      <word id="43" form="gloriam" lemma="" postag="" relation="" head=""/>
+      <word id="44" form="adsequi" lemma="" postag="" relation="" head=""/>
+      <word id="45" form="possumus" lemma="" postag="" relation="" head=""/>
+      <word id="46" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="36"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Quid" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="autem" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="interest" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="ab" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="iis" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="qui" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="postea" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="nascentur" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="11" form="sermonem" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="fore" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="de" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="te" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="16" form="cum" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="ab" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="iis" lemma="" postag="" relation="" head=""/>
+      <word id="19" form="nullus" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="fuerit" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="22" form="qui" lemma="" postag="" relation="" head=""/>
+      <word id="23" form="ante" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="nati" lemma="" postag="" relation="" head=""/>
+      <word id="25" form="sunt" lemma="" postag="" relation="" head=""/>
+      <word id="26" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="37"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="qui" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="ne" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="-c" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="pauciores" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="certe" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="meliores" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="fuerunt" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="viri" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="11" form="praesertim" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="cum" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="apud" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="eos" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="ipsos" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="17" form="a" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="quibus" lemma="" postag="" relation="" head=""/>
+      <word id="19" form="audiri" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="nomen" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="nostrum" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="potest" lemma="" postag="" relation="" head=""/>
+      <word id="23" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="24" form="nemo" lemma="" postag="" relation="" head=""/>
+      <word id="25" form="unius" lemma="" postag="" relation="" head=""/>
+      <word id="26" form="anni" lemma="" postag="" relation="" head=""/>
+      <word id="27" form="memoriam" lemma="" postag="" relation="" head=""/>
+      <word id="28" form="consequi" lemma="" postag="" relation="" head=""/>
+      <word id="29" form="possit" lemma="" postag="" relation="" head=""/>
+      <word id="30" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="38"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="Homines" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="enim" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="populariter" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="annum" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="tantum" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="modo" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="solis" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="id" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="est" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="unius" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="astri" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="14" form="reditu" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="metiuntur" lemma="" postag="" relation="" head=""/>
+      <word id="16" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="39"
+             document_id="urn:cts:latinLit:phi0474.phi043.perseus-lat1"
+             subdoc="6.9-6.29"
+             span="">
+      <word id="1" form="cum" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="autem" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="ad" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="idem" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="6" form="unde" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="semel" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="profecta" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="sunt" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="11" form="cuncta" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="astra" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="redierint" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="eandem" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="-que" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="totius" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="caeli" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="discriptionem" lemma="" postag="" relation="" head=""/>
+      <word id="19" form="longis" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="intervallis" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="rettulerint" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="23" form="tum" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="ille" lemma="" postag="" relation="" head=""/>
+      <word id="25" form="vere" lemma="" postag="" relation="" head=""/>
+      <word id="26" form="vertens" lemma="" postag="" relation="" head=""/>
+      <word id="27" form="annus" lemma="" postag="" relation="" head=""/>
+      <word id="28" form="appellari" lemma="" postag="" relation="" head=""/>
+      <word id="29" form="potest" lemma="" postag="" relation="" head=""/>
+      <word id="30" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
