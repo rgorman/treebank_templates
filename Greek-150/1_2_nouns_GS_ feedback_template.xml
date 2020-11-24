@@ -9,12 +9,6 @@
         <short/>
         <name/>
         <address/>
-        <uri>http://github.com/latin-language-toolkit/arethusa</uri>
-    </annotator>
-    <annotator>
-        <short/>
-        <name/>
-        <address/>
         <uri>https://services.perseids.org/llt/segtok</uri>
     </annotator>
     <annotator>
@@ -24,10 +18,10 @@
         <uri>http://github.com/latin-language-toolkit/arethusa</uri>
     </annotator>
     <annotator>
-        <short>VBGorman</short>
-        <name>Vanessa Gorman</name>
-        <address>readgreek@gmail.com</address>
-        <uri>http://data.perseus.org/sosol/users/VBGorman</uri>
+        <short>Bob Gorman</short>
+        <name>Robert Gorman</name>
+        <address>rgorman1@unl.edu</address>
+        <uri>http://data.perseus.org/sosol/users/Bob%20Gorman</uri>
     </annotator>
     <sentence id="1" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback_template.xml" subdoc="" span="">
         <word id="1" form="τὴν" lemma="" postag="" relation="" head=""/>
@@ -174,7 +168,7 @@
         <word id="3" form="ἐβόα" lemma="" postag="" relation="" head=""/>
         <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="20" document_id="" subdoc="" span="">
+    <sentence id="20" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback_template.xml" subdoc="" span="">
         <word id="1" form="πελτασταῖς" lemma="" postag="" relation="" head=""/>
         <word id="2" form="καὶ" lemma="" postag="" relation="" head=""/>
         <word id="3" form="τοξόταις" lemma="" postag="" relation="" head=""/>
