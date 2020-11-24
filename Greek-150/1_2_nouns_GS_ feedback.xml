@@ -29,13 +29,13 @@
         <address>readgreek@gmail.com</address>
         <uri>http://data.perseus.org/sosol/users/VBGorman</uri>
     </annotator>
-    <sentence id="1" document_id="" subdoc="" span="">
+    <sentence id="1" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback.xml" subdoc="" span="">
         <word id="1" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="2"/>
         <word id="2" form="πολιτείαν" lemma="πολιτεία" postag="n-s---fa-" relation="OBJ" head="3"/>
         <word id="3" form="κατέστησαν" lemma="καθίστημι" postag="v3paia---" relation="PRED" head="0"/>
         <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="2" document_id="" subdoc="" span="">
+    <sentence id="2" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback.xml" subdoc="" span="">
         <word id="1" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="2"/>
         <word id="2" form="ναυμαχίᾳ" lemma="ναυμαχία" postag="n-s---fd-" relation="ADV" head="5"/>
         <word id="3" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="4"/>
@@ -43,7 +43,7 @@
         <word id="5" form="ἀπέκτειναν" lemma="ἀποκτείνω" postag="v3paia---" relation="PRED" head="0"/>
         <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="3" document_id="" subdoc="" span="">
+    <sentence id="3" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback.xml" subdoc="" span="">
         <word id="1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="2"/>
         <word id="2" form="Θρασύβουλος" lemma="Θρασυβούλος" postag="n-s---mn-" relation="SBJ_CO" head="3"/>
         <word id="3" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="6"/>
@@ -54,14 +54,14 @@
         <word id="8" form="πολιτείαν" lemma="πολιτεία" postag="n-s---fa-" relation="OBJ" head="6"/>
         <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="4" document_id="" subdoc="" span="">
+    <sentence id="4" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback.xml" subdoc="" span="">
         <word id="1" form="Δωριεὺς" lemma="Δωριεύς" postag="n-s---mn-" relation="SBJ" head="4"/>
         <word id="2" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="OBJ" head="1"/>
         <word id="3" form="Διαγόρου" lemma="Διαγόρης" postag="n-s---mg-" relation="OBJ" head="1"/>
         <word id="4" form="εἰσέπλει" lemma="εἰσπλέω" postag="v3siia---" relation="PRED" head="0"/>
         <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="5" document_id="" subdoc="" span="">
+    <sentence id="5" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback.xml" subdoc="" span="">
         <word id="1" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="2"/>
         <word id="2" form="Ἀθηναῖοι" lemma="Ἀθηναῖος" postag="n-p---mn-" relation="SBJ" head="3"/>
         <word id="3" form="ἔπλευσαν" lemma="πλέω" postag="v3paia---" relation="PRED" head="0"/>
@@ -69,7 +69,7 @@
         <word id="5" form="στρατοπέδῳ" lemma="στρατόπεδον" postag="n-s---nd-" relation="ADV" head="3"/>
         <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="6" document_id="" subdoc="" span="">
+    <sentence id="6" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback.xml" subdoc="" span="">
         <word id="1" form="Λύσανδρος" lemma="Λύσανδρος" postag="n-s---mn-" relation="SBJ" head="2"/>
         <word id="2" form="ἔλαβε" lemma="λαμβάνω" postag="v3saia---" relation="PRED" head="0"/>
         <word id="3" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="4"/>
@@ -77,14 +77,14 @@
         <word id="5" form="Φιλοκλέα" lemma="Φιλοκλέης" postag="n-s---ma-" relation="OBJ" head="2"/>
         <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="7" document_id="" subdoc="" span="">
+    <sentence id="7" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback.xml" subdoc="" span="">
         <word id="1" form="Λύσανδρος" lemma="Λύσανδρος" postag="n-s---mn-" relation="SBJ" head="4"/>
         <word id="2" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="3"/>
         <word id="3" form="ὁπλίτας" lemma="ὁπλίτης" postag="n-p---ma-" relation="OBJ" head="4"/>
         <word id="4" form="ἀπήγαγεν" lemma="ἀπάγω" postag="v3saia---" relation="PRED" head="0"/>
         <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="8" document_id="" subdoc="" span="">
+    <sentence id="8" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback.xml" subdoc="" span="">
         <word id="1" form="Λύσανδρος" lemma="Λύσανδρος" postag="n-s---mn-" relation="SBJ" head="6"/>
         <word id="2" form="τούς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="3"/>
         <word id="3" form="φρουροὺς" lemma="φρουρός" postag="n-p---ma-" relation="OBJ" head="6"/>
@@ -93,7 +93,7 @@
         <word id="6" form="ἀπέπεμπεν" lemma="ἀποπέμπω" postag="v3siia---" relation="PRED" head="0"/>
         <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="9" document_id="" subdoc="" span="">
+    <sentence id="9" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback.xml" subdoc="" span="">
         <word id="1" form="Λύσανδρος" lemma="Λύσανδρος" postag="n-s---mn-" relation="SBJ" head="4"/>
         <word id="2" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="3"/>
         <word id="3" form="ἐφόροις" lemma="ἔφορος" postag="n-p---md-" relation="OBJ" head="4"/>
@@ -102,25 +102,25 @@
         <word id="6" form="Ἀθηναῖον" lemma="Ἀθηναῖος" postag="a-s---ma-" relation="ATR" head="5"/>
         <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="10" document_id="" subdoc="" span="">
+    <sentence id="10" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback.xml" subdoc="" span="">
         <word id="1" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="SBJ" head="2"/>
         <word id="2" form="ἀπέδοσαν" lemma="ἀποδίδωμι" postag="v3paia---" relation="PRED" head="0"/>
         <word id="3" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="11" document_id="" subdoc="" span="">
+    <sentence id="11" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback.xml" subdoc="" span="">
         <word id="1" form="Πείσανδρον" lemma="Πείσανδρος" postag="n-s---ma-" relation="OBJ" head="3"/>
         <word id="2" form="ναύαρχον" lemma="ναύαρχος" postag="n-s---ma-" relation="OCOMP" head="3"/>
         <word id="3" form="ἐποίησεν" lemma="ποιέω" postag="v3saia---" relation="PRED" head="0"/>
         <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="12" document_id="" subdoc="" span="">
+    <sentence id="12" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback.xml" subdoc="" span="">
         <word id="1" form="Θράσυλλος" lemma="Θράσυλλος" postag="n-s---mn-" relation="SBJ" head="2"/>
         <word id="2" form="ἀπήγαγεν" lemma="ἀπάγω" postag="v3saia---" relation="PRED" head="0"/>
         <word id="3" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="4"/>
         <word id="4" form="στρατιάν" lemma="στρατιά" postag="n-s---fa-" relation="OBJ" head="2"/>
         <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="13" document_id="" subdoc="" span="">
+    <sentence id="13" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback.xml" subdoc="" span="">
         <word id="1" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="2"/>
         <word id="2" form="στρατιὰν" lemma="στρατιά" postag="n-s---fa-" relation="OBJ" head="8"/>
         <word id="3" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="4"/>
@@ -131,28 +131,28 @@
         <word id="8" form="ἐπόρευσε" lemma="ἐφορεύω" postag="v3saia---" relation="PRED" head="0"/>
         <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="14" document_id="" subdoc="" span="">
+    <sentence id="14" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback.xml" subdoc="" span="">
         <word id="1" form="ὀλιγαρχία" lemma="ὀλιγαρχία" postag="n-s---fn-" relation="SBJ" head="2"/>
         <word id="2" form="ἦρχε" lemma="ἄρχω" postag="v3siia---" relation="PRED" head="0"/>
         <word id="3" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="4"/>
         <word id="4" form="Ἀθηναίων" lemma="Ἀθήναιος" postag="n-p---mg-" relation="OBJ" head="2"/>
         <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="15" document_id="" subdoc="" span="">
+    <sentence id="15" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback.xml" subdoc="" span="">
         <word id="1" form="φυγὴ" lemma="φυγή" postag="n-s---fn-" relation="SBJ" head="4"/>
         <word id="2" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="3"/>
         <word id="3" form="Πελοποννησίων" lemma="Πελοποννήσιοι" postag="n-p---mg-" relation="ATR" head="1"/>
         <word id="4" form="ἐγένετο" lemma="γίγνομαι" postag="v3saim---" relation="PRED" head="0"/>
         <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="16" document_id="" subdoc="" span="">
+    <sentence id="16" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback.xml" subdoc="" span="">
         <word id="1" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="2"/>
         <word id="2" form="αἰχμαλώτους" lemma="αἰχμάλωτος" postag="n-p---ma-" relation="OBJ" head="4"/>
         <word id="3" form="Θράσυλλος" lemma="Θράσυλλος" postag="n-s---mn-" relation="SBJ" head="4"/>
         <word id="4" form="ἀπέπεμψε" lemma="ἀποπέμπω" postag="v3saia---" relation="PRED" head="0"/>
         <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="17" document_id="" subdoc="" span="">
+    <sentence id="17" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback.xml" subdoc="" span="">
         <word id="1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="2"/>
         <word id="2" form="Τισσαφέρνης" lemma="Τισσαφέρνης" postag="n-s---mn-" relation="SBJ" head="3"/>
         <word id="3" form="προεῖπεν" lemma="προεῖπον" postag="v3saia---" relation="PRED" head="0"/>
@@ -160,7 +160,7 @@
         <word id="5" form="πόλεμον" lemma="πόλεμος" postag="n-s---ma-" relation="OBJ" head="3"/>
         <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="18" document_id="" subdoc="" span="">
+    <sentence id="18" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback.xml" subdoc="" span="">
         <word id="1" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="2"/>
         <word id="2" form="Ἀθηναῖοι" lemma="Ἀθηναῖος" postag="n-p---mn-" relation="SBJ" head="5"/>
         <word id="3" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="4"/>
@@ -168,13 +168,13 @@
         <word id="5" form="ἐπολιόρκουν" lemma="πολιορκέω" postag="v3piia---" relation="PRED" head="0"/>
         <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="19" document_id="" subdoc="" span="">
+    <sentence id="19" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback.xml" subdoc="" span="">
         <word id="1" form="τὸ" lemma="ὁ" postag="l-s---nn-" relation="ATR" head="2"/>
         <word id="2" form="πλῆθος" lemma="πλῆθος" postag="n-s---nn-" relation="SBJ" head="3"/>
         <word id="3" form="ἐβόα" lemma="βοάω" postag="v3siia---" relation="PRED" head="0"/>
         <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
-    <sentence id="20" document_id="" subdoc="" span="">
+    <sentence id="20" document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Greek-150/1_2_nouns_GS_%20feedback.xml" subdoc="" span="">
         <word id="1" form="πελτασταῖς" lemma="πελταστής" postag="n-p---md-" relation="OBJ_CO" head="2"/>
         <word id="2" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="5"/>
         <word id="3" form="τοξόταις" lemma="τοξότης" postag="n-p---md-" relation="OBJ_CO" head="2"/>
